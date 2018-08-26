@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/NetBSD)
 
 # On OpenBSD, the compile time linker does not share it's configuration with

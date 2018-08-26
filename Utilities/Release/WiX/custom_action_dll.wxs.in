@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
 	<Fragment>
 		<Binary Id="CMakeCustomActionsDll"

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 function(run_compiler_launcher lang)

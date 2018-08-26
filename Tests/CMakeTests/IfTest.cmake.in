@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Prepare variable definitions.
 set(VAR_UNDEFINED)
 set(VAR_PATH /some/path/to/a/file.txt)

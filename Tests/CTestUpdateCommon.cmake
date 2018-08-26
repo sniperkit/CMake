@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #-----------------------------------------------------------------------------
 # Function to run a child process and report output only on error.
 function(run_child)

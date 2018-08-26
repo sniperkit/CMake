@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #!/bin/sh
 
 TEST_OPT_@ID@_FOUND=0

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Prepare environment and variables
 set(PKG_CONFIG_USE_CMAKE_PREFIX_PATH FALSE)
 set(CMAKE_PREFIX_PATH "${CMAKE_CURRENT_SOURCE_DIR}/pc-foo")

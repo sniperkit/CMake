@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX)
 
 if (NOT ";${CMAKE_CXX_COMPILE_FEATURES};" MATCHES ";gnu_cxx_typeof;"

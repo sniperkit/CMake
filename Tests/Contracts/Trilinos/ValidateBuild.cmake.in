@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #
 # This code validates that the Trilinos build was "successful enough" (since it
 # is difficult to detect this from the caller of the experimental_build_test

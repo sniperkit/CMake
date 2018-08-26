@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(mylist alpha bravo charlie delta)
 
 list(TRANSFORM mylist PREPEND "P_" OUTPUT_VARIABLE output)

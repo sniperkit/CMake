@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Global symbol without underscore.
 set(FortranCInterface_GLOBAL_SYMBOL  "@FortranCInterface_GLOBAL_SYMBOL@")
 set(FortranCInterface_GLOBAL_PREFIX  "@FortranCInterface_GLOBAL_PREFIX@")

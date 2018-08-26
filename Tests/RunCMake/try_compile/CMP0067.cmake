@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 
 set(CMAKE_POLICY_WARNING_CMP0067 ON)

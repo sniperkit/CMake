@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT DEFINED dir)
   message(FATAL_ERROR "dir not defined")
 endif()

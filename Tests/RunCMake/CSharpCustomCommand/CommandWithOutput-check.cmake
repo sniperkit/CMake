@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(checkLevel EQUAL 0)
   message("checking generation (${srcName} does not exist)")
   if(EXISTS "${generatedFileName}")

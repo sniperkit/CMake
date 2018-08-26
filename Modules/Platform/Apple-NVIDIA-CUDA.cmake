@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Darwin)
 
 set(__IMPLICT_LINKS )

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Ask xcode-select where to find /Developer or fall back to ancient location.
 execute_process(COMMAND xcode-select -print-path
   OUTPUT_VARIABLE _stdout

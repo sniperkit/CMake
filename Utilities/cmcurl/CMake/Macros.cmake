@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #File defines convenience macros for available feature testing
 
 # This macro checks if the symbol exists in the library and if it

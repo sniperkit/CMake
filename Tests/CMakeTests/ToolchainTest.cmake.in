@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 ############################################################
 # some preparations so that the CMakeDetermineXXX.cmake files will work in scripted mode
 

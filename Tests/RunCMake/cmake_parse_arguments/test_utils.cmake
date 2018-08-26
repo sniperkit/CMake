@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(TEST variable)
   if(ARGC GREATER 2)
     set(i 0)

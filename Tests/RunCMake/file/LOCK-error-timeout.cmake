@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(script "${CMAKE_CURRENT_LIST_DIR}/timeout-script.cmake")
 set(file_to_lock "${CMAKE_CURRENT_BINARY_DIR}/file-to-lock")
 

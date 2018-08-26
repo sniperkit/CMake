@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FeatureSummary)
 set_package_properties(Foo PROPERTIES URL "https://foo.example/"
                                       DESCRIPTION "The Foo package")

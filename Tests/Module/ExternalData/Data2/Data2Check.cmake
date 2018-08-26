@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(d "${Data2}" "${Data2b}")
   file(STRINGS "${d}" lines LIMIT_INPUT 1024)
   if(NOT "x${lines}" STREQUAL "xInput file already transformed.")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 set(CMAKE_C_INCLUDE_WHAT_YOU_USE "${PSEUDO_IWYU}" -some -args)
 set(CMAKE_C_CLANG_TIDY "${PSEUDO_TIDY}" -some -args)

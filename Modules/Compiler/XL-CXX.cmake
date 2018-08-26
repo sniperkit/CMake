@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/XL)
 __compiler_xl(CXX)
 string(APPEND CMAKE_CXX_FLAGS_RELEASE_INIT " -DNDEBUG")

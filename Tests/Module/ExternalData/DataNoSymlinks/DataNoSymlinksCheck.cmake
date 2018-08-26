@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT EXISTS "${Data}")
   message(SEND_ERROR "Input file:\n  ${Data}\ndoes not exist!")
 endif()

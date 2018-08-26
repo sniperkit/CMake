@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_C_COMPILER_FORCED 1) # skip compiler test so we can check cached values
 enable_language(C)
 foreach(t EXE SHARED MODULE STATIC)

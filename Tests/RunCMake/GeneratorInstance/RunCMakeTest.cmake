@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 if("${RunCMake_GENERATOR}" MATCHES "^Visual Studio 1[56789]")

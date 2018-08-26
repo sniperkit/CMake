@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT DEFINED CMAKE_CREATE_VERSION)
   set(CMAKE_CREATE_VERSION "release")
   message("Using default value of 'release' for CMAKE_CREATE_VERSION")

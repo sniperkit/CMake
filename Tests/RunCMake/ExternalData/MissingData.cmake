@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalData)
 
 set(output "${CMAKE_SOURCE_DIR}/MissingData.txt")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(vcProjectFile "${RunCMake_TEST_BINARY_DIR}/exe.vcxproj")
 if(NOT EXISTS "${vcProjectFile}")
   set(RunCMake_TEST_FAILED "Project file ${vcProjectFile} does not exist.")

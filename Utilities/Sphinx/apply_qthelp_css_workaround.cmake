@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 file(READ "${CSS_DIR}/basic.css" BasicCssContent)
 

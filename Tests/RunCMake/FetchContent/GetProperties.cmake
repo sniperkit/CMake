@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FetchContent)
 
 # First confirm properties are empty even before declare

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(OUTPUT_NAME "test.tar.bz2")
 
 set(COMPRESSION_FLAGS cvjf)

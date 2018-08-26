@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This should still produce a warning when -Wno-error=dev is specified
 message(AUTHOR_WARNING "Some author warning")
 

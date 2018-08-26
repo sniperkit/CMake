@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT ${RunCMake_SUBTEST_SUFFIX} MATCHES "invalid_.*_var")
   if(GENERATOR_TYPE STREQUAL "RPM")
     function(checkContentPermissions_ FILE REGEX)

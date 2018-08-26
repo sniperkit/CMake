@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX CSharp)
 
 if(NOT DEFINED exportFileName OR

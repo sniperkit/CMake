@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_BUILD_WITH_INSTALL_RPATH 1)
 
 # PGI compiler doesn't add build id to binaries by default

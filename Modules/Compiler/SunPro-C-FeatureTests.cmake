@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(_cmake_oldestSupported "__SUNPRO_C >= 0x5130")
 
 set(SunPro_C11 "${_cmake_oldestSupported} && defined(__STDC_VERSION__) && (__STDC_VERSION__ >= 201112L || __STDC_VERSION__ >= 199901L && defined(__C11FEATURES__))")

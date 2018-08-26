@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 function(framework_layout_test Name Toolchain Type)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # prevent older policies from interfearing with this script
 cmake_policy(PUSH)
 cmake_policy(VERSION ${CMAKE_VERSION})

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(ENV{PATH} "@MINGW_PATH@\;$ENV{PATH}")
 set(CMAKE_COMMAND_LINE "@ARGS_CMAKE_COMMAND_LINE@")
 execute_process(

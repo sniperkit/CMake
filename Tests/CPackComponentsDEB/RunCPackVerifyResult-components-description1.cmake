@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT CPackComponentsDEB_SOURCE_DIR)
   message(FATAL_ERROR "CPackComponentsDEB_SOURCE_DIR not set")
 endif()

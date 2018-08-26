@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Guard against multiple inclusions
 if(__craylinux_crayprgenv)
   return()

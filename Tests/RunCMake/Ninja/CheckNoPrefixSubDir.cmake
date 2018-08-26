@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_custom_target(check_no_prefix_sub_dir ALL
   COMMAND "${CMAKE_COMMAND}"
           "-DNINJA_OUTPUT_PATH_PREFIX=${CMAKE_NINJA_OUTPUT_PATH_PREFIX}"

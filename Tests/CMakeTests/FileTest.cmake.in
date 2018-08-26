@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(Copy-BadArg-RESULT 1)
 set(Copy-BadArg-STDERR "unknown argument \"BADARG\"")
 set(Copy-BadPerm-RESULT 1)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(PACKAGE_VERSION 3.10.1)
 if(PACKAGE_FIND_VERSION_MAJOR EQUAL 3)
   if(PACKAGE_FIND_VERSION_MINOR EQUAL 10)

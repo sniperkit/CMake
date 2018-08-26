@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(CMAKE_DEBUG_TARGET_PROPERTIES COMPILE_FEATURES)
 add_library(somelib STATIC empty.cpp)

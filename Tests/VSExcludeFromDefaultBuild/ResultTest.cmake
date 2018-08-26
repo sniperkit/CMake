@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "Testing configuration ${activeConfig}.")
 
 macro(TestExists exeName)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This is run by test test1 in repeat-until-fail-cmake.cmake with cmake -P.
 # It reads the file TEST_OUTPUT_FILE and increments the number
 # found in the file by 1.  When the number is 2, then the

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_CROSSCOMPILING 1)
 
 # Executable: Return error code different from 0

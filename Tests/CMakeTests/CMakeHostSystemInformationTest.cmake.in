@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(BadArg1-RESULT 1)
 set(BadArg1-STDERR "missing RESULT specification")
 set(BadArg2-RESULT 1)

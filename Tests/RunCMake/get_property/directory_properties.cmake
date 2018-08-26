@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (check_directory_property dir prop)
   get_directory_property(gdp_val DIRECTORY "${dir}" "${prop}")
   get_property(gp_val

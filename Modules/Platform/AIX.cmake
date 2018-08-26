@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_SHARED_LIBRARY_PREFIX "lib")          # lib
 set(CMAKE_SHARED_LIBRARY_SUFFIX ".so")          # .so
 set(CMAKE_DL_LIBS "-lld")

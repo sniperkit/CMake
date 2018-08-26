@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 find_file(FOO_TEST_FILE_FOO foo.h)
 find_file(FOO_TEST_FILE_ZOT zot.h PATH_SUFFIXES zot)
 find_path(FOO_TEST_PATH_FOO foo.h)

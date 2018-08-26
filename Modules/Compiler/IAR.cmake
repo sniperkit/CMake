@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This file is processed when the IAR compiler is used for a C or C++ file
 # Documentation can be downloaded here: http://www.iar.com/website1/1.0.1.0/675/1/
 # The initial feature request is here: https://gitlab.kitware.com/cmake/cmake/issues/10176

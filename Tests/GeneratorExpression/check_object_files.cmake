@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 if (NOT EXISTS ${OBJLIB_LISTFILE})
   message(SEND_ERROR "Object listing file \"${OBJLIB_LISTFILE}\" not found!")

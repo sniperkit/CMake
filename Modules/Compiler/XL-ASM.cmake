@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_ASM_VERBOSE_FLAG "-V")
 
 # -qthreaded     = Ensures that all optimizations will be thread-safe

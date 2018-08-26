@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(my_func)
   message("my_func")
 endfunction()

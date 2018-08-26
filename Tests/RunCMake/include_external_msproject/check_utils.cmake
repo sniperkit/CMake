@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Check that file contains line that matches regular expression.
 # Sets IS_FOUND variable to TRUE if found and to FALSE otherwise.
 macro(check_line_exists TARGET_FILE REG_EXP_REF)

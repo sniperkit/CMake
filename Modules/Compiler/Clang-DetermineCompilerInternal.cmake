@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(_compiler_id_version_compute "
 # define @PREFIX@COMPILER_VERSION_MAJOR @MACRO_DEC@(__clang_major__)

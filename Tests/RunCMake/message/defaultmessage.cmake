@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 message(DEPRECATION "This is a deprecation warning")
 

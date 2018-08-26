@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 if(RunCMake_GENERATOR STREQUAL "Borland Makefiles" OR

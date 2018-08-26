@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(files foo.vcxproj bar.vcxproj baz.vcxproj)
 
 foreach(file ${files})

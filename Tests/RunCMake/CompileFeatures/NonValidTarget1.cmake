@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(genexvar $<COMPILE_FEATURES:cxx_final>)
 

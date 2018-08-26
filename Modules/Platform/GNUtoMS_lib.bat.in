@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 @echo off
 set VSCMD_START_DIR=.
 call "@CMAKE_GNUtoMS_BAT@"

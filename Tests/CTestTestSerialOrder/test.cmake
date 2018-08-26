@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 list(APPEND EXPECTED_OUTPUT
   initialization
   test9

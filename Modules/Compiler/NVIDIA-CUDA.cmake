@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_CUDA_VERBOSE_FLAG "-v")
 
 if(NOT "x${CMAKE_CUDA_SIMULATE_ID}" STREQUAL "xMSVC")

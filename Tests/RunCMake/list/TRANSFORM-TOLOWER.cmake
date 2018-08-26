@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(mylist ALPHA BRAVO CHARLIE DELTA)
 
 list(TRANSFORM mylist TOLOWER OUTPUT_VARIABLE output)

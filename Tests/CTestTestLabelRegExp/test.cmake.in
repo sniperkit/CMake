@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 configure_file(${SOURCE_DIR}/CTestTestfile.cmake.in CTestTestfile.cmake)
 
 function(get_test_list TEST_LIST)

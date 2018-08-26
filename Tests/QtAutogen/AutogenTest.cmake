@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # Tell find_package(Qt5) where to find Qt.
 if(QT_QMAKE_EXECUTABLE)

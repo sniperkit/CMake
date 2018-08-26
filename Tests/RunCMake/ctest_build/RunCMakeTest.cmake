@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCTest)
 
 set(CASE_CTEST_BUILD_ARGS "")

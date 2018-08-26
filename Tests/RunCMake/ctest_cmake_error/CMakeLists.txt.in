@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required(VERSION 3.1)
 project(CTestCoverage@CASE_NAME@ NONE)
 include(CTest)

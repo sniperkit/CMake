@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(var "\"")
 set(ref "@var@")
 set(rref "\${var}")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 file(WRITE "${CMAKE_CURRENT_BINARY_DIR}/main.cpp"
            "int main(int, char **) { return 0; }\n")

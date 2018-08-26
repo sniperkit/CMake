@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX)
 
 # reduce number of configuration types

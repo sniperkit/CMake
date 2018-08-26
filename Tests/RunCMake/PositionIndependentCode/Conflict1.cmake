@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(piciface UNKNOWN IMPORTED)
 set_property(TARGET piciface PROPERTY INTERFACE_POSITION_INDEPENDENT_CODE ON)

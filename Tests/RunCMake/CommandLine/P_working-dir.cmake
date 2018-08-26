@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT IS_DIRECTORY "${EXPECTED_WORKING_DIR}")
   message(FATAL_ERROR "EXPECTED_WORKING_DIR is not a directory: ${EXPECTED_WORKING_DIR}")
 endif()

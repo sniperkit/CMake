@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_library(A OBJECT a.c)
 add_library(UseA STATIC)
 target_link_libraries(UseA PUBLIC A)

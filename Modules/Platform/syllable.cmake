@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # this is the platform file for the Syllable OS (http://www.syllable.org)
 # Syllable is a free OS (GPL), which is mostly POSIX conform
 # the linker accepts the rpath related arguments, but this is later on

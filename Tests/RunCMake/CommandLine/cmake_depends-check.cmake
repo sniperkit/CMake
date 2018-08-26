@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(depend_make "${RunCMake_TEST_BINARY_DIR}/CMakeFiles/DepTarget.dir/depend.make")
 if(EXISTS "${depend_make}")
   file(READ "${depend_make}" depend_make_content)

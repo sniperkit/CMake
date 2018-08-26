@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_custom_target(check ALL
   COMMAND ${CMAKE_COMMAND} -E echo check

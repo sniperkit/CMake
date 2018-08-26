@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(empty1 SHARED empty.cpp)
 add_library(empty2 SHARED empty.cpp)

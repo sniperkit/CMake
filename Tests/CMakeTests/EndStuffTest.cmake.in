@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Execute each test listed in:
 #
 set(scriptname "@CMAKE_CURRENT_SOURCE_DIR@/EndStuffTestScript.cmake")

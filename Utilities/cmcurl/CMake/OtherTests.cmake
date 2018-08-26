@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CheckCSourceCompiles)
 # The begin of the sources (macros and includes)
 set(_source_epilogue "#undef inline")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Test add_compiler_export_flags without deprecation warning.
 set(CMAKE_WARN_DEPRECATED OFF)
 

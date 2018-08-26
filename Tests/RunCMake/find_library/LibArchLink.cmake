@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_SIZEOF_VOID_P 4)
 set_property(GLOBAL PROPERTY FIND_LIBRARY_USE_LIB32_PATHS ON)
 list(APPEND CMAKE_FIND_LIBRARY_PREFIXES lib)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #ifndef __CUDACC__
 # error "A C or C++ compiler has been selected for CUDA"
 #endif

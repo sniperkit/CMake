@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This CMakeLists file is *sometimes expected* to result in a configure error.
 #
 # expect this to succeed:

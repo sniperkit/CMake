@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 /* A 16 bit integer is required. */
 typedef @CMAKE_16BIT_TYPE@ cmakeint16;
 

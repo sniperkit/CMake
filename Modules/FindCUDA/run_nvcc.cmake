@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #  James Bigler, NVIDIA Corp (nvidia.com - jbigler)
 #
 #  Copyright (c) 2008 - 2009 NVIDIA Corporation.  All rights reserved.

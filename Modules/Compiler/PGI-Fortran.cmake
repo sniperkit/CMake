@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/PGI)
 __compiler_pgi(Fortran)
 

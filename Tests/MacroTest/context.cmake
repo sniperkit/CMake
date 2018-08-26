@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 GET_CURRENT_FILE(current_file)
 if(NOT "${current_file}" STREQUAL "${CMAKE_CURRENT_LIST_FILE}")
   message(FATAL_ERROR

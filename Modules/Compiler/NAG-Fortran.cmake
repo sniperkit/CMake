@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Help CMAKE_PARSE_IMPLICIT_LINK_INFO detect NAG Fortran object files.
 if(NOT CMAKE_Fortran_COMPILER_WORKS AND NOT CMAKE_Fortran_COMPILER_FORCED)
   message(STATUS "Detecting NAG Fortran directory")

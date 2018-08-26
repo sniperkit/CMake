@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_Java_COMPILER "@CMAKE_Java_COMPILER@")
 set(CMAKE_Java_COMPILER_ARG1 "@CMAKE_Java_COMPILER_ARG1@")
 set(CMAKE_Java_RUNTIME  "@CMAKE_Java_RUNTIME@")

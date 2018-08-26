@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalProject)
 
 file(WRITE ${CMAKE_CURRENT_BINARY_DIR}/zzzz_tmp.txt "Dummy file")

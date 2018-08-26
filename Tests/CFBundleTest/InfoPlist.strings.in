@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 /* Localized versions of Info.plist keys */
 
 CFBundleName = "${PLUGIN_NAME}.plugin";

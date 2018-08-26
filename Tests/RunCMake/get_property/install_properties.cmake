@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (check_install_property file prop)
   get_property(gp_val
     INSTALL "${file}"

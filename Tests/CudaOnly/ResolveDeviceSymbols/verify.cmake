@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${DUMP_COMMAND} ${DUMP_ARGS} ${TEST_LIBRARY_PATH}
   RESULT_VARIABLE RESULT
   OUTPUT_VARIABLE OUTPUT

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project(autoexport)
 set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS TRUE)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${autoexport_BINARY_DIR}/bin)

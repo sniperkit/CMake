@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_policy(SET CMP0054 NEW)
 
 function(assert KEYWORD)

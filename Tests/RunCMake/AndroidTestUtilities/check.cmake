@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(compare_build_to_expected)
   cmake_parse_arguments(_comp "" "" "FILES" ${ARGN})
   set(missing)

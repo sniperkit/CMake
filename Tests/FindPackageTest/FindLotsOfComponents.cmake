@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(LOC_FOO TRUE)
 
 set(LotsOfComponents_AComp_FOUND TRUE)

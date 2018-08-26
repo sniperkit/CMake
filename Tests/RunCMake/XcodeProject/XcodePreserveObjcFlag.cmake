@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_CONFIGURATION_TYPES "Release" CACHE INTERNAL "Supported configuration types")
 
 project(XcodePreserveObjcFlag CXX)

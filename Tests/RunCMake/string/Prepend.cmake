@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(out)
 string(PREPEND out)
 if(DEFINED out)

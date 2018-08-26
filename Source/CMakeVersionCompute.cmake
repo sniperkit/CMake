@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Load version number components.
 include(${CMake_SOURCE_DIR}/Source/CMakeVersion.cmake)
 

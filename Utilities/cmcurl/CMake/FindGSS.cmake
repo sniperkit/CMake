@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Try to find the GSS Kerberos library
 # Once done this will define
 #

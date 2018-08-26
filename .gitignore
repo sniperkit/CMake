@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Exclude MacOS Finder files.
 .DS_Store
 

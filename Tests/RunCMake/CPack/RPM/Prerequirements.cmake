@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(get_test_prerequirements found_var config_file)
   if(CMAKE_CURRENT_BINARY_DIR MATCHES " ")
     # rpmbuild can't handle spaces in path

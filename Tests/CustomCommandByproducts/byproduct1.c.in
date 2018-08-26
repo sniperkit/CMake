@@ -1,1 +1,4 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 int byproduct1(void) { return 0; }

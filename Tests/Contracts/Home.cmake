@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Find a home in which to build.
 if(NOT DEFINED HOME)
   if(DEFINED ENV{CTEST_REAL_HOME})

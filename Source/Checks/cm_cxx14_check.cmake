@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMake_CXX14_BROKEN 0)
 if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
   if(NOT CMAKE_CXX14_STANDARD_COMPILE_OPTION)

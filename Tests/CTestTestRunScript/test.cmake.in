@@ -1,2 +1,5 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CTEST_RUN_CURRENT_SCRIPT 0)
 CTEST_RUN_SCRIPT("CTestTestRunScript/hello.cmake" RETURN_VALUE res RETURN_VALUE)

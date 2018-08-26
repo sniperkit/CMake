@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 string(JOIN % out)
 if(NOT out STREQUAL "")
   message(FATAL_ERROR "\"string(JOIN % out)\" set out to \"${out}\"")

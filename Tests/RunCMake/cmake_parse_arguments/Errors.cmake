@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # wrong argument count
 cmake_parse_arguments()
 cmake_parse_arguments(prefix OPT)

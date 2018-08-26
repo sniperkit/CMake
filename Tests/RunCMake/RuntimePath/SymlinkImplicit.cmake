@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 
 set(lib_dir ${CMAKE_CURRENT_BINARY_DIR}/lib)

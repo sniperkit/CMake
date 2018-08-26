@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_testing()
 
 set(TEST_OUTPUT_FILE "${CMAKE_CURRENT_BINARY_DIR}/test_output.txt")

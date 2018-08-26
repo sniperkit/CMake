@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 include(${CMAKE_CURRENT_LIST_DIR}/check-common.cmake)
 

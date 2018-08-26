@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 run_cmake(CMP0055-OLD-Out-of-Scope)

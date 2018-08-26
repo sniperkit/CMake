@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Add a target that requires step1 to run first but enforces
 # it only by target-level ordering dependency.
 add_custom_command(

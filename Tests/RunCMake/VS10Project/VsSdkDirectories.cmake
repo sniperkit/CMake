@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX)
 
 set(CMAKE_VS_SDK_EXECUTABLE_DIRECTORIES "$(VC_ExecutablePath_x86);C:\\Program Files\\Custom-SDK\\;")

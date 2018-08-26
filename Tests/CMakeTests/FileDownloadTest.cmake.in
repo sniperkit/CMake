@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT "@CMAKE_CURRENT_SOURCE_DIR@" MATCHES "^/")
   set(slash /)
 endif()

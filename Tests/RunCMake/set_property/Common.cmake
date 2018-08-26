@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(test_target_property PROP)
   add_custom_target(CustomTarget)
   set_property(TARGET CustomTarget PROPERTY ${PROP} x)

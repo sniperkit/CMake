@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CTEST_USE_LAUNCHERS 1)
 set(CTEST_PROJECT_NAME "CTestTestLaunchers")
 set(CTEST_NIGHTLY_START_TIME "21:00:00 EDT")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Generate a libarchive.pc like autotools for pkg-config
 #
 

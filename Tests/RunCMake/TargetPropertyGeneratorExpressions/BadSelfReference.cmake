@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_subdirectory(BadSelfReference1)
 add_subdirectory(BadSelfReference2)
 add_subdirectory(BadSelfReference3)

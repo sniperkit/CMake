@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT DEFINED CMAKE_PLATFORM_REQUIRED_RUNTIME_PATH)
   set(CMAKE_PLATFORM_REQUIRED_RUNTIME_PATH /usr/lib)
 endif()

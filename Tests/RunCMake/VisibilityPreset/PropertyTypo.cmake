@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX)
 
 # Ensure CMake warns even if toolchain does not really have these flags.

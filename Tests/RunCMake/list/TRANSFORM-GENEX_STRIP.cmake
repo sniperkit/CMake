@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(mylist one "$<1:two\;three>" four "$<TARGET_OBJECTS:some_target>")
 
 list(TRANSFORM mylist GENEX_STRIP OUTPUT_VARIABLE output)

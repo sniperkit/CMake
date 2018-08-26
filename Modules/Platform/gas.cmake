@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(UNIX)
   set(CMAKE_ASM${ASM_DIALECT}_OUTPUT_EXTENSION .o)
 else()

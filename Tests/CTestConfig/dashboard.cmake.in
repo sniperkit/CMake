@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(_isMultiConfig "@_isMultiConfig@")
 set(CTEST_SOURCE_DIRECTORY "@CMake_SOURCE_DIR@/Tests/CTestConfig")
 set(CTEST_BINARY_DIRECTORY "@CMake_BINARY_DIR@/Tests/CTestConfig/@cfg@-dashboard")

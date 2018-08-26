@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${RPM_EXECUTABLE} -qpd ${FOUND_FILE_1}
   WORKING_DIRECTORY "${CPACK_TEMPORARY_DIRECTORY}"
   OUTPUT_VARIABLE DOC_FILES_

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "start")
 foreach(outer RANGE 7 9)
   if("${outer}" EQUAL 8)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(lang C CXX)
   set(CMAKE_${lang}_FLAGS_INIT -DMY_FLAGS_INIT)
   set(CMAKE_${lang}_FLAGS_DEBUG_INIT -DMY_FLAGS_DEBUG_INIT)

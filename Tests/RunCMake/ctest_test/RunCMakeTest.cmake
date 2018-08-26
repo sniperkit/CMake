@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCTest)
 set(RunCMake_TEST_TIMEOUT 60)
 

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Windows-MSVC)
 set(_COMPILE_CXX " /TP")
 if(NOT CMAKE_CXX_COMPILER_VERSION VERSION_LESS 18.0)

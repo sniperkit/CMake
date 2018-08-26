@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required(VERSION 2.6.3)
 
 # Make sure a policy set differently by our includer is now correct.

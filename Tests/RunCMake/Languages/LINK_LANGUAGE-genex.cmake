@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(foo STATIC empty.cpp)
 add_library(bar STATIC empty.cpp)

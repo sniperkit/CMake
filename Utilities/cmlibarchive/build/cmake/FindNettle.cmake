@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Find Nettle
 # Find the Nettle include directory and library
 #

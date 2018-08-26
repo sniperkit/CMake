@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #
 # Test that setting the compression produces valid
 # packages (compression does not leak to the DEBIAN/ files that use gzip)

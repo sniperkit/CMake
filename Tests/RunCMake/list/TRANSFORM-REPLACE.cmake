@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(mylist alpha bravo charlie delta)
 
 list(TRANSFORM mylist REPLACE "(.+a)$" "\\1_\\1" OUTPUT_VARIABLE output)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/PGI)
 __compiler_pgi(C)
 string(APPEND CMAKE_C_FLAGS_MINSIZEREL_INIT " -DNDEBUG")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${readelf} -d ${mod} OUTPUT_FILE ${mod}.readelf.txt)
 file(STRINGS ${mod}.readelf.txt soname REGEX "SONAME")
 if(soname)

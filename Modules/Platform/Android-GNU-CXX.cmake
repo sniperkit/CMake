@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Android-GNU)
 __android_compiler_gnu(CXX)
 if(_ANDROID_STL_NOSTDLIBXX)

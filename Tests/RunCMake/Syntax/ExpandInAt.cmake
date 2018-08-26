@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set("\${varname}" bar)
 set(var foo)
 set(ref "@\${var}@")

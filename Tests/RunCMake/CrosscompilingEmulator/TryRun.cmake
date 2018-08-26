@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_CROSSCOMPILING 1)
 
 try_run(run_result compile_result

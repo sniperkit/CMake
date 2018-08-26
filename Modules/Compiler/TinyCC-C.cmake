@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_SHARED_LIBRARY_CREATE_C_FLAGS "-shared")
 
 # no optimization in tcc:

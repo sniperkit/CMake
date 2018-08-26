@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(foo_preinst "^echo default_preinst$")
 # NOTE: optional dot at the end of permissions regex is for SELinux enabled systems
 set(foo_preinst_permissions_regex "-rwxr-xr-x\.? .*")

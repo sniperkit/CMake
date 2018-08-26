@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_testing()
 include(AndroidTestUtilities)
 

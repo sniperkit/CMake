@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT "${VersionTestC_FIND_VERSION}" STREQUAL "1.2.3")
   message(SEND_ERROR "VersionTestC_FIND_VERSION=${VersionTestC_FIND_VERSION} is not 1.2.3")
 endif()

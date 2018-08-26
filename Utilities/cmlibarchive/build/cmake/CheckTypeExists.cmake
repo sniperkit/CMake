@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Check if the system has the specified type
 # CHECK_TYPE_EXISTS (TYPE HEADER VARIABLE)
 #

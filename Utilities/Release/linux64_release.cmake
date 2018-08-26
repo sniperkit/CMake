@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(PROCESSORS 4)
 set(BOOTSTRAP_ARGS "--docdir=doc/cmake")
 set(HOST linux64)

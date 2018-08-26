@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 repository='@repository@'
 module='@module@'
 tag='@tag@'

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FetchContent)
 
 # Need to see the download command output

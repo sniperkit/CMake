@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(foo empty_vs6_1.cpp)
 add_library(bar empty_vs6_2.cpp)

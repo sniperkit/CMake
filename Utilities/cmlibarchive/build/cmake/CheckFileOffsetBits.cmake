@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Check if _FILE_OFFSET_BITS macro needed for large files
 # CHECK_FILE_OFFSET_BITS ()
 #

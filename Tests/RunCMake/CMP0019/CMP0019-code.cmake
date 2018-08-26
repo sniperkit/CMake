@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(VAR_INCLUDE "VAL_INCLUDE")
 set(VAR_LINK_DIRS "VAL_LINK_DIRS")
 set(VAR_LINK_LIBS "VAL_LINK_LIBS")

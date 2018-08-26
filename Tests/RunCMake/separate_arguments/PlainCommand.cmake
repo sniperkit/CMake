@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(old_out "a b  c")
 separate_arguments(old_out)
 set(old_exp "a;b;;c")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (watch1)
     message("From watch1")
 endfunction ()

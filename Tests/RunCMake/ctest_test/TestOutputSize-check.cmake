@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(GLOB test_xml_file "${RunCMake_TEST_BINARY_DIR}/Testing/*/Test.xml")
 if(test_xml_file)
   file(READ "${test_xml_file}" test_xml LIMIT 4096)

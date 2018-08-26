@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Print values for human reference.
 foreach(v
     configuration

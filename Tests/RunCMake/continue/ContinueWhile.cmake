@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "start")
 unset(iter)
 while(NOT "${iter}" STREQUAL "aaaaa")

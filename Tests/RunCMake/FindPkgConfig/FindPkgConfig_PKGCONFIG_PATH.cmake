@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Needed for CMAKE_SYSTEM_NAME, CMAKE_LIBRARY_ARCHITECTURE, FIND_LIBRARY_USE_LIB32_PATHS and FIND_LIBRARY_USE_LIB64_PATHS
 enable_language(C)
 

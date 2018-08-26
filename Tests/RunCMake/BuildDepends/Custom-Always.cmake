@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_custom_command(
   OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/before-always
   COMMAND ${CMAKE_COMMAND} -E touch before-always

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_SYSTEM_NAME Dumdidum)
 set(CMAKE_SYSTEM_VERSION "1.0")
 

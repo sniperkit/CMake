@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(PROCESSORS 4)
 set(CMAKE_RELEASE_DIRECTORY /Users/kitware/CMakeReleaseDirectory)
 set(BOOTSTRAP_ARGS "--prefix=/ --docdir=doc/cmake")

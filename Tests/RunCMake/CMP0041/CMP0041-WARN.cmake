@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(foo empty.cpp)
 set_property(TARGET foo

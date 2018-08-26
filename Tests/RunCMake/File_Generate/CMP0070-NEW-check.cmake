@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(f
     "${RunCMake_TEST_SOURCE_DIR}/relative-input-NEW.txt"
     "${RunCMake_TEST_BINARY_DIR}/relative-output-NEW.txt"

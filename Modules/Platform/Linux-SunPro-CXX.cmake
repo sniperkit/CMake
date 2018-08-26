@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Sun C++ 5.9 does not support -Wl, but Sun C++ 5.11 does not work without it.
 # Query the compiler flags to detect whether to use -Wl.
 execute_process(COMMAND ${CMAKE_CXX_COMPILER} -flags OUTPUT_VARIABLE _cxx_flags ERROR_VARIABLE _cxx_error)

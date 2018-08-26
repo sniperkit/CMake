@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/depth1/depth2/depth3")
 execute_process(COMMAND ${CMAKE_COMMAND} -E create_symlink "${CMAKE_CURRENT_BINARY_DIR}/test" "${CMAKE_CURRENT_BINARY_DIR}/test/depth1/depth2/depth3/recursion")
 

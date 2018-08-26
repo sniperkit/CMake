@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message("This is packaging script")
 message("It writes a file with all variables available in ${CMAKE_INSTALL_PREFIX}/AllVariables.txt")
 

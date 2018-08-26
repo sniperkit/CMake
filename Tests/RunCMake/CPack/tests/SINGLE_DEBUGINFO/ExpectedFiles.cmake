@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(whitespaces_ "[\t\n\r ]*")
 set(EXPECTED_FILES_COUNT "0")
 set(EXPECTED_FILES_NAME_GENERATOR_SPECIFIC_FORMAT TRUE)

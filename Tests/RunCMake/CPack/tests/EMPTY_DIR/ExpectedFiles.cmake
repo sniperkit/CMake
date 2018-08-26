@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(EXPECTED_FILES_COUNT "1")
 set(EXPECTED_FILES_NAME_GENERATOR_SPECIFIC_FORMAT TRUE)
 set(EXPECTED_FILE_CONTENT_1_LIST "/empty")

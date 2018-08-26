@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(failure_test_executables
   ${CMAKE_CURRENT_BINARY_DIR}/failure_test_targets)
 file(WRITE ${failure_test_executables} "")

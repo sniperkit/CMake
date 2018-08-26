@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(READ "${RunCMake_TEST_BINARY_DIR}/TARGET_EXISTS-generated.txt" content)
 
 set(expected "1")

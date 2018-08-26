@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This is a platform definition file for platforms without
 # operating system, typically embedded platforms.
 # It is used when CMAKE_SYSTEM_NAME is set to "Generic"

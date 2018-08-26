@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/Scripts")
 
 # Test GLOBAL include guard

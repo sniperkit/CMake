@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(parameter OUTPUT_NAME COMPRESSION_FLAGS DECOMPRESSION_FLAGS)
   if(NOT DEFINED ${parameter})
     message(FATAL_ERROR "missing required parameter ${parameter}")

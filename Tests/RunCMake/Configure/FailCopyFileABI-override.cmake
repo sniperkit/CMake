@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Change the executable suffix that try_compile will use for
 # COPY_FILE but not inside the test project.  This forces failure.
 get_property(in_try_compile GLOBAL PROPERTY IN_TRY_COMPILE)

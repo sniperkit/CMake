@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 cmake_policy(SET CMP0038 OLD)
 add_library(self_link empty.cpp)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 include(${CMAKE_CURRENT_LIST_DIR}/check_utils.cmake)
 

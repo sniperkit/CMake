@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT file_to_lock)
   message(FATAL_ERROR "file_to_lock is empty")
 endif()

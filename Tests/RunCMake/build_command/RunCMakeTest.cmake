@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 unset(ENV{CMAKE_CONFIG_TYPE})
 

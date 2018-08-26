@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Always build in a predictable configuration.  For multi-config
 # generators we depend on RunCMakeTest.cmake to do this for us.
 get_property(_isMultiConfig GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG)

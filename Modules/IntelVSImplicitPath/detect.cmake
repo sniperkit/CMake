@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # look at each path and try to find ifconsol.lib
 set(LIB "$ENV{LIB}")
 foreach(dir ${LIB})

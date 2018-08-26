@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(m)
   message(STATUS "  start m")
   foreach(i 1 2)

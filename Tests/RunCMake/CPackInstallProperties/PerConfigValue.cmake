@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_executable(mytest test.cpp)
 
 foreach(CONFIG IN LISTS CMAKE_CONFIGURATION_TYPES)

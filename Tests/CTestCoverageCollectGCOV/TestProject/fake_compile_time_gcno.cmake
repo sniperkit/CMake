@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include("${INFO_FILE}")
 
 foreach(source ${SOURCES})

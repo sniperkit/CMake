@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(EXPECTED_FILES_COUNT "5")
 set(EXPECTED_FILE_1_COMPONENT "applications")
 set(EXPECTED_FILE_CONTENT_1_LIST "/foo;/foo/test_prog")

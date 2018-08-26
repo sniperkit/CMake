@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 string(APPEND CMAKE_Fortran_FLAGS_INIT " ")
 string(APPEND CMAKE_Fortran_FLAGS_DEBUG_INIT " -g")
 string(APPEND CMAKE_Fortran_FLAGS_MINSIZEREL_INIT " ")

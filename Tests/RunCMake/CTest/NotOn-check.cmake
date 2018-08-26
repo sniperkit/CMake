@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(f "${RunCMake_TEST_BINARY_DIR}/CTestTestfile.cmake")
 if(NOT EXISTS "${f}")
   set(RunCMake_TEST_FAILED "File does not exist:\n  ${f}")

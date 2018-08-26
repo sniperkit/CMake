@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(d "/long/path/to/directory")
 foreach(i RANGE 11)
   string(APPEND d "${d}")

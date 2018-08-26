@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Check if the system has the specified function; treat glibc "stub"
 # functions as nonexistent:
 # CHECK_FUNCTION_EXISTS_GLIBC (FUNCTION FUNCVAR)

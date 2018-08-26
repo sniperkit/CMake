@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(MY_LIST foo bar)
 
 if("foo" IN_LIST MY_LIST)

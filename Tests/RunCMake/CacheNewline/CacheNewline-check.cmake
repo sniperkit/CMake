@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CACHE_EXPECTED_FILE "${RunCMake_TEST_SOURCE_DIR}/cache-regex.txt")
 set(CACHE_ACTUAL_FILE "${RunCMake_BINARY_DIR}/CacheNewline-build/CMakeCache.txt")
 

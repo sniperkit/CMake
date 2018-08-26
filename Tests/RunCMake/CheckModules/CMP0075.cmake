@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 enable_language(CXX)
 include(CheckIncludeFile)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # Based on GNU 4.8.2
 # https://docs.oracle.com/cd/E37069_01/html/E37071/gncix.html

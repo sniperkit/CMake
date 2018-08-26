@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include("${RunCMake_TEST_BINARY_DIR}/FrameworkName.cmake")
 set(framework-resources "${framework-dir}/Resources")
 set(framework-resource-file "${framework-resources}/res.txt")

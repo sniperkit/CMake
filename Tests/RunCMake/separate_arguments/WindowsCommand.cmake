@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(windows_cmd "a \"b c\" 'd e' \";\" \\ \"c:\\windows\\path\\\\\" \\\"")
 set(windows_exp "a;b c;'d;e';\;;\\;c:\\windows\\path\\;\"")
 separate_arguments(windows_out WINDOWS_COMMAND "${windows_cmd}")

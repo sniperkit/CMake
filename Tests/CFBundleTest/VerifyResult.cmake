@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT DEFINED CTEST_CONFIGURATION_TYPE)
   message(FATAL_ERROR "expected variable CTEST_CONFIGURATION_TYPE not defined")
 endif()

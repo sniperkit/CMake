@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Keep formatting here consistent with bootstrap script expectations.
 if(BEOS)
   set(CMAKE_BIN_DIR_DEFAULT "bin") # HAIKU

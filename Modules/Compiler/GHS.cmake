@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(__COMPILER_GHS)
   return()
 endif()

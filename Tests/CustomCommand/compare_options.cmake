@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(range 1 2 3 4 5 6 7 8 9 10)
 set(aargs "")
 set(bargs "")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(READ out.txt IN)
 message("${IN}")
 if(IN MATCHES Hello AND IN MATCHES World)

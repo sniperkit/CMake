@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # check if Xcode and CMake have the same understanding of Bundle layout
 
 cmake_minimum_required(VERSION 3.3)

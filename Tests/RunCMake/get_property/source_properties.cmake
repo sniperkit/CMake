@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (check_source_file_property file prop)
   get_source_file_property(gsfp_val "${file}" "${prop}")
   get_property(gp_val

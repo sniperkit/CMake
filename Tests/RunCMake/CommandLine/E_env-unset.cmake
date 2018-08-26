@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(DEFINED ENV{TEST_ENV})
   message(FATAL_ERROR "TEST_ENV is incorrectly set in environment")
 else()

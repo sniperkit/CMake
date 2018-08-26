@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # per target attribute with genex
 
 set(expect "TEST_HOST = \"[^;\"]*Tests/RunCMake/XcodeProject/XcodeAttributeGenex-build/[^;\"/]*/some\"")

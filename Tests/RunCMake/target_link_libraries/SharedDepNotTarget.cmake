@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 set(CMAKE_LINK_DEPENDENT_LIBRARY_DIRS 1)
 set(CMAKE_SHARED_LIBRARY_SUFFIX ".so")

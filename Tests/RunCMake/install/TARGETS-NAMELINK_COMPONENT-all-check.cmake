@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(WIN32)
   set(_check_files
     [[lib]]

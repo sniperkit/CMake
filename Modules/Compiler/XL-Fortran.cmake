@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/XL)
 __compiler_xl(Fortran)
 

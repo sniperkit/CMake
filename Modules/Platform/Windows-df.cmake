@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # compiler support for fortran CVF compiler on windows
 
 set(CMAKE_WINDOWS_OBJECT_PATH 1)

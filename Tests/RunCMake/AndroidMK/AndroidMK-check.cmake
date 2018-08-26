@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This file does a regex file compare on the generated
 # Android.mk files from the AndroidMK test
 

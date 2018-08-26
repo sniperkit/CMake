@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 /*
  * Ensure we have C99-style int64_t, etc, all defined.

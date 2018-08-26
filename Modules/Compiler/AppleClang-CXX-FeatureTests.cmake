@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # No known reference for AppleClang versions.
 # Generic reference: http://clang.llvm.org/cxx_status.html

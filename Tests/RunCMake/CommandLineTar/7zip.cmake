@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(OUTPUT_NAME "test.7z")
 
 set(COMPRESSION_FLAGS cvf)

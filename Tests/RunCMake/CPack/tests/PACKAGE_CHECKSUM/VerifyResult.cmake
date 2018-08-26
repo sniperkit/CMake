@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT ${RunCMake_SUBTEST_SUFFIX} MATCHES "invalid")
   string(TOLOWER ${RunCMake_SUBTEST_SUFFIX} CHECKSUM_EXTENSION)
   file(GLOB PACKAGE RELATIVE ${bin_dir} "*.tar.gz")

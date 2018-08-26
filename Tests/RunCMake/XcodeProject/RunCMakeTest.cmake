@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 if(XCODE_VERSION VERSION_GREATER_EQUAL 9)

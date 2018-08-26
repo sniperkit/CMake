@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(file_name  ${CMAKE_CURRENT_BINARY_DIR}/NewLineStyle.txt)
 
 function(test_eol style in out)

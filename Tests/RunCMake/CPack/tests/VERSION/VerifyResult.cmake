@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(checkPackageInfo_ TYPE FILE REGEX)
   getPackageInfo("${FILE}" "FILE_INFO_")
   if(NOT FILE_INFO_ MATCHES "${REGEX}")

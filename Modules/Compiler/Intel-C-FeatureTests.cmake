@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # References:
 #   - https://software.intel.com/en-us/articles/iso-iec-standards-language-conformance-for-intel-c-compiler
 #   - https://software.intel.com/en-us/articles/c99-support-in-intel-c-compiler

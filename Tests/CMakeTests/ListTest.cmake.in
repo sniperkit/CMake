@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include("@CMAKE_CURRENT_SOURCE_DIR@/CheckCMakeTest.cmake")
 
 macro(TEST command expected)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(lock "${CMAKE_CURRENT_BINARY_DIR}/file-to-lock")
 
 if(WIN32)

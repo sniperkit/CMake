@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(CMAKE_SYSTEM MATCHES "SunOS-4")
    set(CMAKE_C_COMPILE_OPTIONS_PIC "-PIC")
    set(CMAKE_C_COMPILE_OPTIONS_PIE "-PIE")

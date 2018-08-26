@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(SOP_FOO TRUE)
 
 include(${CMAKE_ROOT}/Modules/FindPackageHandleStandardArgs.cmake)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(STRINGS ${RunCMake_TEST_BINARY_DIR}/test.txt TEST_TXT ENCODING UTF-8)
 
 list(GET TEST_TXT 0 PDB_PATH)

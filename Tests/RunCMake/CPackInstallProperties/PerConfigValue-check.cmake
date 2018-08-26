@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(${RunCMake_SOURCE_DIR}/check.cmake)
 
 file(GLOB INFO_FILES ${RunCMake_TEST_BINARY_DIR}/runtest_info_*.cmake)

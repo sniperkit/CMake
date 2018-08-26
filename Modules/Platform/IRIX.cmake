@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_DL_LIBS "")
 set(CMAKE_SHARED_LIBRARY_CREATE_C_FLAGS "-shared -rdata_shared")
 set(CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG "-Wl,-rpath,")       # -rpath

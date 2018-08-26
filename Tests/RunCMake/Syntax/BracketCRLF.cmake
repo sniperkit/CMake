@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if([[
 ]] STREQUAL "" AND
 [[a

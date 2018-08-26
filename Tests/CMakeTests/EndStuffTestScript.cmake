@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "testname='${testname}'")
 
 if(testname STREQUAL bad_else) # fail

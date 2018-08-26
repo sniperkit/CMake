@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 get_filename_component(include_dir "${CMAKE_BINARY_DIR}" PATH)
 include_directories("${include_dir}")

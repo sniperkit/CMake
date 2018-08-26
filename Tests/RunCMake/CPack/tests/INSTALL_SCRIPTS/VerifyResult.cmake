@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(checkScripts_ FILE COMPARE_LIST)
   set(whitespaces_ "[\t\n\r ]*")
 

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(GENERATOR_TYPE STREQUAL "RPM")
   set(CPACK_RPM_PRE_INSTALL_SCRIPT_FILE
     "${CMAKE_CURRENT_BINARY_DIR}/pre_install.sh")

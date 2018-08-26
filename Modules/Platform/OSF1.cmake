@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_DL_LIBS "")
 
 if(CMAKE_SYSTEM MATCHES "OSF1-1.[012]")

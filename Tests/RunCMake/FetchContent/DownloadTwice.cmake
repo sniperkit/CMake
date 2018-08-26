@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FetchContent)
 
 FetchContent_Declare(

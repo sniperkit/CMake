@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 get_property(_isMultiConfig GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG)
 if(NOT _isMultiConfig)
   set(CMAKE_BUILD_TYPE Debug)

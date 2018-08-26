@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 namespace CSharpOnly
 {
     public class Lib2

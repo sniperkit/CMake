@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 if(SYSTEM_NAME MATCHES "^(.*BSD|DragonFly)$")

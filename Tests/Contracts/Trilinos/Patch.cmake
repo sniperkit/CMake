@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT DEFINED source_dir)
   message(FATAL_ERROR "variable 'source_dir' not defined")
 endif()

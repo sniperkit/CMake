@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if("x${CMAKE_GENERATOR_PLATFORM}" STREQUAL "xTest Platform")
   message(SEND_ERROR "CMAKE_GENERATOR_PLATFORM is \"Test Platform\" as expected.")
 else()

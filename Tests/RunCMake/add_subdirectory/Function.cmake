@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(my_add_subdirectory dir)
   set(var 2)
   message(STATUS "var='${var}' in my_add_subdirectory before add_subdirectory")

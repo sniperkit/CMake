@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message("This is install script 3.")
 set(INSTALL_SCRIPT_3_DID_RUN 1)
 if(INSTALL_CODE_WITH_COMPONENT_DID_RUN)

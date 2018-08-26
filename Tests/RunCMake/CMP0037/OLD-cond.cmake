@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_policy(SET CMP0037 OLD)
 
 add_custom_target(test)

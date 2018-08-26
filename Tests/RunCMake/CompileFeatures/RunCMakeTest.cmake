@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_policy(SET CMP0057 NEW)
 include(RunCMake)
 

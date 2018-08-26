@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_custom_target(MyCustom)
 set_property(TARGET MyCustom PROPERTY IMPORTED_LIBNAME item1)
 set_property(TARGET MyCustom APPEND PROPERTY IMPORTED_LIBNAME item2)

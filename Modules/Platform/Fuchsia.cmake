@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(FUCHSIA 1)
 
 set(CMAKE_DL_LIBS "")

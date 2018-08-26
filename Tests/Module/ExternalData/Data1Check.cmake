@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(STRINGS "${Data}" lines LIMIT_INPUT 1024)
 if(NOT "x${lines}" STREQUAL "xInput file already transformed.")
   message(SEND_ERROR "Input file:\n  ${Data}\ndoes not have expected content, but [[${lines}]]")

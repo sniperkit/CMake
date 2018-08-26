@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(${RunCMake_SUBTEST_SUFFIX} MATCHES "CMAKE_var_set" OR
   ${RunCMake_SUBTEST_SUFFIX} MATCHES "both_set")
 

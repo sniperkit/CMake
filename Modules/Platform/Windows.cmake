@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(WIN32 1)
 
 if(CMAKE_SYSTEM_NAME STREQUAL "WindowsCE")

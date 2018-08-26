@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Usage: cmake -Dlib=lib.bat -Ddef=out.def -Ddll=out.dll -Dimp=out.dll.a -P GNUtoMS_lib.cmake
 get_filename_component(name ${dll} NAME) # .dll file name
 string(REGEX REPLACE "\\.dll\\.a$" ".lib" out "${imp}") # .dll.a -> .lib

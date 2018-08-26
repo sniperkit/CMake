@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(_compiler_id_pp_test "defined(_SGI_COMPILER_VERSION) || defined(_COMPILER_VERSION)")
 

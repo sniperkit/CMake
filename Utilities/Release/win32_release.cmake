@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_RELEASE_DIRECTORY "c:/msys64/home/dashboard/CMakeReleaseDirectory32")
 set(CONFIGURE_WITH_CMAKE TRUE)
 set(CMAKE_CONFIGURE_PATH "c:/Program\\ Files/CMake/bin/cmake.exe")

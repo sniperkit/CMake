@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 set(RunCMake_TEST_NO_CLEAN TRUE)
 set(RunCMake_TEST_BINARY_DIR "${RunCMake_BINARY_DIR}/AutoExport-build")

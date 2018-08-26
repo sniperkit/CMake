@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT DEFINED CMake_SOURCE_DIR)
   message(FATAL_ERROR "CMake_SOURCE_DIR not defined")
 endif()

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(CMAKE_WARN_DEPRECATED OFF)
 

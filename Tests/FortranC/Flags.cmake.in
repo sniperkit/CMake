@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(src "@CMAKE_CURRENT_SOURCE_DIR@/FortranC")
 set(bld "@CMAKE_CURRENT_BINARY_DIR@/FortranC/Flags")
 

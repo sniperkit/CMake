@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This file is loaded when gcc/g++ is used for assembler files (the "ASM" cmake language)
 include(Compiler/GNU)
 

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(vcSlnFile "${RunCMake_TEST_BINARY_DIR}/AddPackageToDefault.sln")
 if(NOT EXISTS "${vcSlnFile}")
   set(RunCMake_TEST_FAILED "Project file ${vcSlnFile} does not exist.")

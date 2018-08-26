@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 get_property(FOO_BRIEF GLOBAL PROPERTY FOO BRIEF_DOCS)
 get_property(FOO_FULL GLOBAL PROPERTY FOO FULL_DOCS)
 

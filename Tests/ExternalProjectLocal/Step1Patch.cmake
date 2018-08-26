@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Verify the current working directory.
 if(NOT EXISTS CMakeLists.txt)
   message(FATAL_ERROR "File does not exist:\n  ${CMAKE_CURRENT_SOURCE_DIR}/CMakeLists.txt")

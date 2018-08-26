@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This function calls the ${scriptname} file to execute one test case:
 #
 function(execute_one_script_test scriptname testname expected_result)

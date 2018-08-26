@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(iface INTERFACE)
 target_sources(iface INTERFACE empty_1.cpp)

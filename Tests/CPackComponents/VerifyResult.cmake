@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "=============================================================================")
 message(STATUS "CTEST_FULL_OUTPUT (Avoid ctest truncation of output)")
 message(STATUS "")

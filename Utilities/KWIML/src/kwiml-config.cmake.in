@@ -1,1 +1,4 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(${CMAKE_CURRENT_LIST_DIR}/kwiml-targets.cmake)

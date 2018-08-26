@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required (VERSION 2.8.12)
 enable_testing()
 project(findmatlab_runcmake_test2)

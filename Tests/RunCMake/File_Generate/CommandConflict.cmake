@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 file(GENERATE OUTPUT "${CMAKE_CURRENT_BINARY_DIR}/output_$<CONFIGURATION>.txt"
               INPUT "${CMAKE_CURRENT_SOURCE_DIR}/input.txt"

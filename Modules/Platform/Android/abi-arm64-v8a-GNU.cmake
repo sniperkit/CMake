@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # <ndk>/build/core/toolchains/aarch64-linux-android-4.9/setup.mk
 
 # Suppress -Wl,-z,nocopyreloc flag on arm64-v8a

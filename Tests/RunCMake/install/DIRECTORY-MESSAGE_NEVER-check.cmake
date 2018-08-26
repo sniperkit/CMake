@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(REMOVE_RECURSE ${RunCMake_TEST_BINARY_DIR}/prefix)
 execute_process(COMMAND ${CMAKE_COMMAND} -P ${RunCMake_TEST_BINARY_DIR}/cmake_install.cmake
   OUTPUT_VARIABLE out ERROR_VARIABLE err)

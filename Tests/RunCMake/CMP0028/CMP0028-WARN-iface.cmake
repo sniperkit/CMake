@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(iface INTERFACE)
 target_link_libraries(iface INTERFACE External::Library)

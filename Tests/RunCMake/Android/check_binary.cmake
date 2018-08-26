@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT EXISTS "${file}")
   message(FATAL_ERROR "Missing file:\n  ${file}")
 endif()

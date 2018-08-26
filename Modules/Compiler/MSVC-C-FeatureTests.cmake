@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(_cmake_oldestSupported "_MSC_VER >= 1600")
 
 # Not yet supported:

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX)
 add_library(foo foo.cpp)
 target_link_libraries(foo ${CMAKE_BINARY_DIR}/xyzzy.targets)

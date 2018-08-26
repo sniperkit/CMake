@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_library(objlib OBJECT)
 add_custom_target(check ALL COMMAND echo
   $<TARGET_FILE:objlib>

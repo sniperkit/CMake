@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(EXPECTED_FILES_COUNT "1")
 # don't set the prefix here as we have absolute paths that should not be prefixed
 set(EXPECTED_FILE_PACKAGING_PREFIX "")

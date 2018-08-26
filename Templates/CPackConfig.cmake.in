@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This file will be configured to contain variables for CPack. These variables
 # should be set in the CMake list file of the project before CPack module is
 # included. The list of available CPACK_xxx variables and their associated

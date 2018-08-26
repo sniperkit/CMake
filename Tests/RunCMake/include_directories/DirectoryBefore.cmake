@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include_directories(AfterDir)
 include_directories(BEFORE BeforeDir)
 get_property(dirs DIRECTORY PROPERTY INCLUDE_DIRECTORIES)

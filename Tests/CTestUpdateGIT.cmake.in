@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This script drives creation of a git repository and checks
 # that CTest can update from it.
 

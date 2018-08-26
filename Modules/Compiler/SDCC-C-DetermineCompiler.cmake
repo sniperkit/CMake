@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # sdcc, the small devices C compiler for embedded systems,
 #   http://sdcc.sourceforge.net  */

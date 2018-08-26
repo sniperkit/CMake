@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(expect "DEPLOYMENT_LOCATION = YES")
 file(STRINGS ${RunCMake_TEST_BINARY_DIR}/XcodeAttributeLocation.xcodeproj/project.pbxproj actual
   REGEX "DEPLOYMENT_LOCATION = .*;" LIMIT_COUNT 1)

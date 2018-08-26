@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # kFreeBSD looks just like Linux.
 include(Platform/Linux)
 

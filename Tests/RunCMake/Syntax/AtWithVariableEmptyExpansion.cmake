@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Literal since 'var' is not defined.
 set(ref "@var@")
 set(right "wrong")

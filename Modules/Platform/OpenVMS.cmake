@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/UnixPaths)
 
 set(CMAKE_C_CREATE_STATIC_LIBRARY

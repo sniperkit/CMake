@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Support for ARTOS RTOS (locamation.com)
 set(CMAKE_LINK_LIBRARY_SUFFIX "")
 set(CMAKE_STATIC_LIBRARY_PREFIX "")

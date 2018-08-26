@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(empty1 INTERFACE IMPORTED)
 add_library(empty2 INTERFACE IMPORTED)

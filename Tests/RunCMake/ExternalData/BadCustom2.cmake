@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalData)
 set(ExternalData_URL_TEMPLATES
   "ExternalDataCustomScript:///%(algo)/%(hash)"

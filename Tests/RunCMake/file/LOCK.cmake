@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(lfile "${CMAKE_CURRENT_BINARY_DIR}/file-to-lock")
 set(ldir "${CMAKE_CURRENT_BINARY_DIR}/dir-to-lock")
 

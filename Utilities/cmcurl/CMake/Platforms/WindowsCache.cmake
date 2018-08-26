@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT UNIX)
   if(WIN32)
     set(HAVE_LIBDL 0)

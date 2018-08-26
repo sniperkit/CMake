@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 
 add_executable(main ${CMAKE_CURRENT_BINARY_DIR}/main.c)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(WIN32 OR CYGWIN OR NO_NAMELINK)
   set(_check_files)
 else()

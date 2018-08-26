@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${RPMBUILD_EXECUTABLE} --querytags
                 OUTPUT_VARIABLE RPMBUILD_CAPS
                 RESULT_VARIABLE RPMBUILD_CAPS_RESULT)

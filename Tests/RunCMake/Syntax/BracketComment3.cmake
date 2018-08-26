@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #[[Text on opening line
 message(FATAL_ERROR "This is commented out.")
 #]=]]

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(MULTI_CONFIG)
   set(SI_CONFIG --config $<CONFIGURATION>)
 else()

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 include_directories(NotThere1-NOTFOUND)
 

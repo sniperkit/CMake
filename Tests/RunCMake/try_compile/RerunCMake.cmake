@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message("Running CMake on RerunCMake") # write to stderr if cmake reruns
 enable_language(C)
 try_compile(res

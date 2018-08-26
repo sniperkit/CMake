@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(right "wrong")
 set(var "\${right}")
 # Expanded here with the old policy.

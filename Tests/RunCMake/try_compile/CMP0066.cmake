@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 set(CMAKE_C_FLAGS_RELEASE "-DPP_ERROR ${CMAKE_C_FLAGS_DEBUG}")
 set(CMAKE_TRY_COMPILE_CONFIGURATION Release)

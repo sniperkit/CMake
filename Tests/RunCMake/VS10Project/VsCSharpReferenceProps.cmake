@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CSharp)
 add_library(foo foo.cs)
 add_library(foo2 foo.cs)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Test moc include patterns
 include_directories("../MocInclude")
 include_directories(${CMAKE_CURRENT_BINARY_DIR})

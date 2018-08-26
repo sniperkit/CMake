@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Windows-Intel)
 set(CMAKE_BUILD_TYPE_INIT Debug)
 set(_COMPILE_Fortran " /fpp")

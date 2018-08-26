@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(MD5-BadArg1-RESULT 1)
 set(MD5-BadArg1-STDERR "string MD5 requires an output variable")
 set(MD5-BadArg2-RESULT 1)

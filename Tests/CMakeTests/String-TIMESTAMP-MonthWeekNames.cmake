@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 string(TIMESTAMP output "%a;%b")
 message("~${output}~")
 

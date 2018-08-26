@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 get_filename_component(SCRIPT_PATH "${CMAKE_CURRENT_LIST_FILE}" PATH)
 
 # default to self extracting tgz, tgz, and tar.Z

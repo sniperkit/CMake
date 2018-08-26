@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCTest)
 
 # Isolate our ctest runs from external environment.

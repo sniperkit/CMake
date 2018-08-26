@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/ARMCC)
 
 set(CMAKE_ASM_OUTPUT_EXTENSION ".o")

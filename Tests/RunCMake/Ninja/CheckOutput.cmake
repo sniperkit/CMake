@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Add rules to check the generated executable works.
 
 set(hello_output "${CMAKE_CURRENT_BINARY_DIR}/hello.output")

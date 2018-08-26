@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 list(APPEND CMAKE_FIND_LIBRARY_PREFIXES lib)
 list(APPEND CMAKE_FIND_LIBRARY_SUFFIXES .a)
 

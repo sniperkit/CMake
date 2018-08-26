@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 set(CMAKE_BUILD_WITH_INSTALL_RPATH 1)
 set(CMAKE_BUILD_WITH_INSTALL_NAME_DIR 1)

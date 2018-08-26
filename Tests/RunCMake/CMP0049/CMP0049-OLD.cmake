@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 cmake_policy(SET CMP0049 OLD)
 

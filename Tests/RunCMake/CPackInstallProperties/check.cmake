@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(test_property FILE NAME EXPECTED_VALUE)
   get_property(ACTUAL_VALUE INSTALL "${FILE}" PROPERTY "${NAME}")
 

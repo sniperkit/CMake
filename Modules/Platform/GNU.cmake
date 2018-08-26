@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # GCC is the default compiler on GNU/Hurd.
 set(CMAKE_DL_LIBS "dl")
 set(CMAKE_SHARED_LIBRARY_C_FLAGS "-fPIC")

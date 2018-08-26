@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 build_command(command)
 message("${command}")
 build_command(command TARGET MyTarget)

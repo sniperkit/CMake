@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Find c-ares
 # Find the c-ares includes and library
 # This module defines

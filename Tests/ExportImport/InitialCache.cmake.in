@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_MAKE_PROGRAM "@CMake_TEST_NESTED_MAKE_PROGRAM@" CACHE FILEPATH "Make Program")
 set(CMAKE_C_COMPILER "@CMAKE_C_COMPILER@" CACHE STRING "C Compiler")
 set(CMAKE_C_FLAGS "@CMAKE_C_FLAGS@" CACHE STRING "C Flags")

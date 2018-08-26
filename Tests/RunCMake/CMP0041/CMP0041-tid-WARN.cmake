@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(foo empty.cpp)
 target_include_directories(foo INTERFACE

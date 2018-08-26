@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # This file implements basic support for sdcc (http://sdcc.sourceforge.net/)
 # a free C compiler for 8 and 16 bit microcontrollers.

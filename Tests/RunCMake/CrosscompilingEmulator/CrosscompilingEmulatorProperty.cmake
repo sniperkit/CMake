@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This tests setting the CROSSCOMPILING_EMULATOR target property from the
 # CMAKE_CROSSCOMPILING_EMULATOR variable.
 

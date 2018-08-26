@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(EXPECTED_FILES_COUNT "0")
 
 if(NOT RunCMake_SUBTEST_SUFFIX STREQUAL "invalid")

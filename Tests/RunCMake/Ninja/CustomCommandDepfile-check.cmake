@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(log "${RunCMake_BINARY_DIR}/CustomCommandDepfile-build/build.ninja")
 file(READ "${log}" build_file)
 if(NOT "${build_file}" MATCHES "depfile = test\\.d")

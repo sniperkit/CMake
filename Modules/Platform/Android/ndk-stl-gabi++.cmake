@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # <ndk>/sources/cxx-stl/gabi++/Android.mk
 set(_ANDROID_STL_RTTI 1)
 set(_ANDROID_STL_EXCEPTIONS 1)

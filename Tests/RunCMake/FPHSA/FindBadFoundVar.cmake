@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(BFV_FOO TRUE)
 
 include(FindPackageHandleStandardArgs)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Find pcreposix
 # Find the native PCRE and PCREPOSIX include and libraries
 #

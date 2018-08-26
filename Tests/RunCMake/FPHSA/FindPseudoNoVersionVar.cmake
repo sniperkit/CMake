@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # pseudo find_module without specifying VERSION_VAR
 
 set(FOOBAR TRUE)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT "${CMAKE_CURRENT_BINARY_DIR}" MATCHES "^/")
   set(slash /)
 endif()

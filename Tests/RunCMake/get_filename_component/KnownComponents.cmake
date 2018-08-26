@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Assertion macro
 macro(check desc actual expect)
   if(NOT "x${actual}" STREQUAL "x${expect}")

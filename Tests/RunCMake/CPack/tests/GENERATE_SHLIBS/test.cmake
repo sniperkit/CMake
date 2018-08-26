@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CPACK_DEBIAN_FILE_NAME "DEB-DEFAULT")
 
 set(CPACK_DEBIAN_PACKAGE_GENERATE_SHLIBS "ON")

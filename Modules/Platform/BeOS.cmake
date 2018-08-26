@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(BEOS 1)
 
 set(CMAKE_DL_LIBS root be)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project(test_include_dirs)
 include(CTest)
 include(GoogleTest)

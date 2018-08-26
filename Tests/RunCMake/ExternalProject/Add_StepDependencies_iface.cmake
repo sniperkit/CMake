@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalProject)
 
 add_library(SomeInterface INTERFACE)

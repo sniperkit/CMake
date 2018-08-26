@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(${CMAKE_CURRENT_LIST_DIR}/test_utils.cmake)
 
 function(test1)

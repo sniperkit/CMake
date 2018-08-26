@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This script will be executed with ctest -S
 
 # Check that the system name is determined correctly:

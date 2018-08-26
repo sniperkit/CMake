@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(unix_cmd "a \"b c\" 'd e' \";\" \\ \\'\\\" '\\'' \"\\\"\"")
 set(unix_exp "a;b c;d e;\;; '\";';\"")
 separate_arguments(unix_out UNIX_COMMAND "${unix_cmd}")

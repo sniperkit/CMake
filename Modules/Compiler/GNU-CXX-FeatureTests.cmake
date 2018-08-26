@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # Reference: http://gcc.gnu.org/projects/cxx0x.html
 # http://gcc.gnu.org/projects/cxx1y.html

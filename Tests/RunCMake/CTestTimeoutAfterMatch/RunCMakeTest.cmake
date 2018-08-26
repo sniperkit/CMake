@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCTest)
 
 function(run_ctest_TimeoutAfterMatch CASE_NAME)

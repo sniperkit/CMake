@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 list(APPEND foo 1 2 3 4 5)
 
 message(STATUS "start")

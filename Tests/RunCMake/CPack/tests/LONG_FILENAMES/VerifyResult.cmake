@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # create structure required by non root dpkg install
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/root_dir")
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/root_dir/admindir")

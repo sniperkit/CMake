@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if (${CMAKE_ARGC} LESS 4)
   message(FATAL_ERROR "Too few arguments")
 endif()

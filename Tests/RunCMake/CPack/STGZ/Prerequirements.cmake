@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(get_test_prerequirements found_var config_file)
   if(EXISTS "/bin/sh")
     #gunzip is not part of posix so we should not rely on it being installed

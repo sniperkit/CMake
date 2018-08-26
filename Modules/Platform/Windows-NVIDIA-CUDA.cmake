@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Windows-MSVC)
 
 set(CMAKE_CUDA_COMPILE_PTX_COMPILATION

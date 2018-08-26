@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 add_executable(myexe main.c)
 install(TARGETS myexe DESTINATION bin-all)

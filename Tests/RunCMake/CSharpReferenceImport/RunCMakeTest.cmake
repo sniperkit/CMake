@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 set(RunCMake_TEST_NO_CLEAN 1)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # Prevent deprecated warnings from new UseSWIG module
 set (CMAKE_WARN_DEPRECATED FALSE)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required(VERSION ${CMAKE_VERSION} FATAL_ERROR)
 
 function(test_variable NAME EXPECTED_VALUE)

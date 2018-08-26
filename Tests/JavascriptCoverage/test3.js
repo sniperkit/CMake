@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var assert = require("assert")
 var test  = {
   version: "1.0.0"

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 /* expat_config.h.in.  Generated from configure.in by autoheader.  */
 
 /* 1234 = LIL_ENDIAN, 4321 = BIGENDIAN */

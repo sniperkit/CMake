@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # References:
 #   - https://software.intel.com/en-us/articles/c0x-features-supported-by-intel-c-compiler
 #   - https://software.intel.com/en-us/articles/c14-features-supported-by-intel-c-compiler

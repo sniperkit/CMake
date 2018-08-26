@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # this file simulates a program that has been built with AddressSanitizer
 # options
 

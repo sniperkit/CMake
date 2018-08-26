@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(script)
 
 foreach(TEST_NAME ${TEST_NAMES})

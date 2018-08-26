@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #/**********************************************************\
 # Auto-Generated Plugin Configuration file
 # for CFTestPlugin

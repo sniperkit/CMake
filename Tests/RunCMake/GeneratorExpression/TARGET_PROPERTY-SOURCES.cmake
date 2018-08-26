@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_policy(SET CMP0070 NEW)
 enable_language(C)
 add_library(foo empty.c empty2.c)

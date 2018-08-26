@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # clean passed in arguments
 get_filename_component(INPUT ${INPUT} ABSOLUTE)

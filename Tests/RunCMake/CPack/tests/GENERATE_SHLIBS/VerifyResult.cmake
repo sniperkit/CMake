@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(RunCMake_SUBTEST_SUFFIX STREQUAL "soversion_not_zero")
   set(shlibs_shlibs "^libtest_lib 0\\.8 generate_shlibs \\(\\= 0\\.1\\.1\\)\n$")
 else() # soversion_zero

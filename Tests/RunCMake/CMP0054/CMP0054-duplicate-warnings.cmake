@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(FOO "BAR")
 
 function(generate_warning)

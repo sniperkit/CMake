@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (check_test_property test prop)
   get_test_property("${test}" "${prop}" gtp_val)
   get_property(gp_val

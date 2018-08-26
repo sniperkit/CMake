@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Define option CMake_TEST_INSTALL, and enable by default for dashboards.
 set(_default 0)
 if(DEFINED ENV{DASHBOARD_TEST_FROM_CTEST})

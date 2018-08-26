@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This is not supposed to be included by user code, but we need to
 # test it.
 include(${CMAKE_ROOT}/Modules/CMakeDetermineCompilerId.cmake)

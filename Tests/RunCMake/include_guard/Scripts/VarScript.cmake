@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include_guard()
 
 set(prop_name VAR_SCRIPT_COUNT)

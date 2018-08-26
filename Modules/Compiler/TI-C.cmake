@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_LIBRARY_PATH_FLAG "--search_path=")
 set(CMAKE_LINK_LIBRARY_FLAG "--library=")
 set(CMAKE_INCLUDE_FLAG_C "--include_path=")

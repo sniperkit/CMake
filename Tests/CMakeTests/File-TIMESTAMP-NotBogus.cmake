@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(STAMP_FILENAME "${CMAKE_CURRENT_BINARY_DIR}/FileTimestamp-Stamp")
 set(STAMP_FORMAT "%Y-%m-%d")
 

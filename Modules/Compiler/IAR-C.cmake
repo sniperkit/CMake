@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This file is processed when the IAR compiler is used for a C file
 
 include(Compiler/IAR)

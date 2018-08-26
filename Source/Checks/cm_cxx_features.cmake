@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 function(cm_check_cxx_feature name)
   string(TOUPPER ${name} FEATURE)

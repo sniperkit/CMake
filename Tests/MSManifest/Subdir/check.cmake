@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(STRINGS "${exe}" content REGEX "name=\"Kitware.CMake.MSManifestTest\"")
 if(content)
   message(STATUS "Expected manifest content found:\n ${content}")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_custom_command(
   OUTPUT hello.copy.c
   COMMAND "${CMAKE_COMMAND}" -E copy

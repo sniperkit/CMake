@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 install(FILES CMakeLists.txt DESTINATION one     RENAME foo.txt)
 install(FILES CMakeLists.txt DESTINATION one/two RENAME bar.txt)
 install(FILES CMakeLists.txt DESTINATION three   RENAME baz.txt)

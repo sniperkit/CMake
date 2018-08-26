@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message("This is install script 2.")
 if(INSTALL_SCRIPT_1_DID_RUN)
   message("Install script ordering works.")

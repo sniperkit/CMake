@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "Running CMake on GLOB-CONFIGURE_DEPENDS-RerunCMake")
 file(GLOB_RECURSE
   CONTENT_LIST

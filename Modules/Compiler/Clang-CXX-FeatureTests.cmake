@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 # Reference: http://clang.llvm.org/cxx_status.html
 # http://clang.llvm.org/docs/LanguageExtensions.html

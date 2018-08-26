@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(picon UNKNOWN IMPORTED)
 set_property(TARGET picon PROPERTY INTERFACE_POSITION_INDEPENDENT_CODE ON)

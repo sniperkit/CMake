@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Generic-ADSP-Common)
 
 set(CMAKE_CXX_OUTPUT_EXTENSION ".doj")

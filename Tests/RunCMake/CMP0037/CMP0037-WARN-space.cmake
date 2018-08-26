@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CXX)
 add_library("lib with spaces" empty.cpp)
 add_executable("exe with spaces" empty.cpp)

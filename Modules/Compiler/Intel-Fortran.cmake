@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/Intel)
 __compiler_intel(Fortran)
 

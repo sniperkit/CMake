@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Check the CMake source tree for suspicious policy introdcutions...
 #
 message("=============================================================================")

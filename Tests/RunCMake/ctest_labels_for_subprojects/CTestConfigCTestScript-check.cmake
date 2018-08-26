@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(EXPERIMENTAL_FEATURE_REGEX "<Subproject name=\"MyExperimentalFeature\">.*<Label>MyExperimentalFeature</Label>.*</Subproject>")
 set(PRODUCTION_CODE_REGEX "<Subproject name=\"MyProductionCode\">.*<Label>MyProductionCode</Label>.*</Subproject>")
 set(SUBPROJECTS_REGEX "${EXPERIMENTAL_FEATURE_REGEX}.*${PRODUCTION_CODE_REGEX}")

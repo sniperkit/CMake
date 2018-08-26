@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CTEST_RUN_CURRENT_SCRIPT 0)
 
 macro(check_arg name expected_value)

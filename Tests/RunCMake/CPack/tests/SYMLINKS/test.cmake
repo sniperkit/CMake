@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 install(DIRECTORY DESTINATION empty_dir COMPONENT links)
 install(FILES CMakeLists.txt DESTINATION non_empty_dir COMPONENT links)
 

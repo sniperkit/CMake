@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (check_cache_property var prop)
   get_property(gp_val
     CACHE "${var}"

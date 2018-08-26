@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(testfile "${RunCMake_TEST_BINARY_DIR}/CTestTestfile.cmake")
 if(EXISTS "${testfile}")
   file(READ "${testfile}" testfile_contents)

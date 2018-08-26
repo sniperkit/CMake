@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(src ${CMAKE_CURRENT_SOURCE_DIR}/dir)
 set(dst ${CMAKE_CURRENT_BINARY_DIR}/dir)
 file(REMOVE RECURSE ${dst})

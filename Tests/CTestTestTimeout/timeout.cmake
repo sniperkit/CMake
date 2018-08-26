@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Remove the log file.
 file(REMOVE ${Log})
 

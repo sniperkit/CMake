@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required(VERSION 3.1)
 @CASE_CMAKELISTS_PREFIX_CODE@
 project(CTestBuild@CASE_NAME@ NONE)

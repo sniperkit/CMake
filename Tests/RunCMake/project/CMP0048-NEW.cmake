@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(print_versions name)
   foreach(v "" _MAJOR _MINOR _PATCH _TWEAK)
     message(STATUS "PROJECT_VERSION${v}='${PROJECT_VERSION${v}}'")

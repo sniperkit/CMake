@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(__craylinux_crayprgenv_gnu_cxx)
   return()
 endif()

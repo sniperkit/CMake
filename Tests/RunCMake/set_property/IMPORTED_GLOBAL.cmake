@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(print_property TARGET PROP)
   get_property(val TARGET ${TARGET} PROPERTY ${PROP})
   message(STATUS "${TARGET}: Target ${PROP} is '${val}'")

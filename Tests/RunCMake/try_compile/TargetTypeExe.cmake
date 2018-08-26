@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 set(CMAKE_TRY_COMPILE_TARGET_TYPE EXECUTABLE)
 try_compile(result ${CMAKE_CURRENT_BINARY_DIR}

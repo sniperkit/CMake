@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CSharp)
 
 # test VS_CSHARP_* for the following extensions

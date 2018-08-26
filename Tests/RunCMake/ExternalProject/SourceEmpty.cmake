@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalProject)
 set(source_dir "${CMAKE_CURRENT_BINARY_DIR}/SourceEmpty")
 file(REMOVE_RECURSE "${source_dir}")

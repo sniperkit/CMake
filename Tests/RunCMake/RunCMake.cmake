@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(arg
     RunCMake_GENERATOR
     RunCMake_SOURCE_DIR

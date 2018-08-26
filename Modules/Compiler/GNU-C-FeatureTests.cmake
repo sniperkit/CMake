@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(_cmake_oldestSupported "(__GNUC__ * 100 + __GNUC_MINOR__) >= 304")
 

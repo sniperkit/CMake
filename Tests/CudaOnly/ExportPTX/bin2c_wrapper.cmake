@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(file_contents)
 foreach(obj ${OBJECTS})

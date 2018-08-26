@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${MYEXECUTABLE} RESULT_VARIABLE RESULT)
 
 if(NOT RESULT_VARIABLE STREQUAL "0")

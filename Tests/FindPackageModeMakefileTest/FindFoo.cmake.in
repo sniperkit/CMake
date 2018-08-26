@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 find_library(FOO_LIBRARY NAMES foo HINTS "@CMAKE_CURRENT_BINARY_DIR@" )
 find_path(FOO_INCLUDE_DIR NAMES foo.h HINTS "@CMAKE_CURRENT_SOURCE_DIR@" )

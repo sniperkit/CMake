@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/GHS)
 
 set(CMAKE_CXX_VERBOSE_FLAG "-v")

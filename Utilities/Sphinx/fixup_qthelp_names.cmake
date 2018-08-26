@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 file(READ "${QTHELP_DIR}/CMake.qhcp" QHCP_CONTENT)
 

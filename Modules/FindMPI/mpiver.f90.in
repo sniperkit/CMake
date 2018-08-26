@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
       program mpi_ver
       @MPI_Fortran_INCLUDE_LINE@
       integer(kind=kind(MPI_VERSION)), parameter :: zero = ichar('0')

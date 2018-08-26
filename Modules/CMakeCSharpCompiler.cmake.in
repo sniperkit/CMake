@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_CSharp_COMPILER "@CMAKE_CSharp_COMPILER@")
 set(CMAKE_CSharp_COMPILER_ID "@CMAKE_CSharp_COMPILER_ID@")
 set(CMAKE_CSharp_COMPILER_VERSION "@CMAKE_CSharp_COMPILER_VERSION@")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_SYSTEM_NAME Darwin)
 set(CMAKE_SYSTEM_VERSION 1)
 set(UNIX True)

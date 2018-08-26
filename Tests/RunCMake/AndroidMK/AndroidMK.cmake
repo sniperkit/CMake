@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project(build)
 set(CMAKE_BUILD_TYPE Debug)
 add_library(foo foo.cxx)

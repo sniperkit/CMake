@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_library(MyTarget INTERFACE IMPORTED)
 set_property(TARGET MyTarget PROPERTY IMPORTED_LIBNAME -flag)
 set_property(TARGET MyTarget PROPERTY IMPORTED_LIBNAME item1 item2)

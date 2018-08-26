@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #  James Bigler, NVIDIA Corp (nvidia.com - jbigler)
 #  Abe Stephens, SCI Institute -- http://www.sci.utah.edu/~abe/FindCuda.html
 #

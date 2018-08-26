@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # support for the Analog Devices toolchain for their DSPs
 # Raphael Cotty" <raphael.cotty (AT) googlemail.com>
 #

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalData)
 set(ExternalData_LINK_CONTENT SHA1)
 set(ExternalData_SOURCE_ROOT ${CMAKE_CURRENT_BINARY_DIR})

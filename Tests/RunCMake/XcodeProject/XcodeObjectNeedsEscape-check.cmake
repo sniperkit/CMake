@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(expect "-DKDESRCDIR=\\\\\\\\\\\\\"foo\\\\\\\\\\\\\"")
 file(STRINGS ${RunCMake_TEST_BINARY_DIR}/XcodeObjectNeedsEscape.xcodeproj/project.pbxproj actual
      REGEX "OTHER_CPLUSPLUSFLAGS = [^;]*;" LIMIT_COUNT 1)

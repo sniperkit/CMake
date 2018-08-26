@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/first")
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/second")
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/third")

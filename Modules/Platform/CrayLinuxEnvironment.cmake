@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Compute Node Linux doesn't quite work the same as native Linux so all of this
 # needs to be custom.  We use the variables defined through Cray's environment
 # modules to set up the right paths for things.

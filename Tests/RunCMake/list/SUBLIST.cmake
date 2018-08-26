@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(mylist alpha bravo charlie delta)
 list(SUBLIST mylist 1 2 result)
 

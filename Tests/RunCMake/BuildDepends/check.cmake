@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(EXISTS ${RunCMake_TEST_BINARY_DIR}/check-debug.cmake)
   include(${RunCMake_TEST_BINARY_DIR}/check-debug.cmake)
   if(RunCMake_TEST_FAILED)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_SHARED_LIBRARY_C_FLAGS "-G 0")
 set(CMAKE_SHARED_LIBRARY_SUFFIX "..o")
 set(CMAKE_DL_LIBS "")

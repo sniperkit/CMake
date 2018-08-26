@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 install(FILES CMakeLists.txt DESTINATION foo COMPONENT foo)
 install(FILES CMakeLists.txt DESTINATION bar COMPONENT bar)
 install(FILES CMakeLists.txt DESTINATION bas COMPONENT bas)

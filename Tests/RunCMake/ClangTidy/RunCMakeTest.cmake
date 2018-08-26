@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 set(RunCMake_TEST_OPTIONS "-DPSEUDO_TIDY=${PSEUDO_TIDY}")

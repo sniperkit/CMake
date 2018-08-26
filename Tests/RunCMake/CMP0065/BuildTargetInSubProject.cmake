@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(BuildTargetInSubProject P T E)
   try_compile(RESULTVAR
     ${CMAKE_CURRENT_BINARY_DIR}/subproject

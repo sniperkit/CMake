@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Try to identify the current development source version.
 set(CMake_VERSION_SOURCE "")
 if(EXISTS ${CMake_SOURCE_DIR}/.git/HEAD)

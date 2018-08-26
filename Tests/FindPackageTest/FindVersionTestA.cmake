@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT "${VersionTestA_FIND_VERSION}" STREQUAL "1")
   message(SEND_ERROR "VersionTestA_FIND_VERSION=${VersionTestA_FIND_VERSION} is not 1")
 endif()

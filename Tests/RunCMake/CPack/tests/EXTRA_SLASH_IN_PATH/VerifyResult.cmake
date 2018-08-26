@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # check that relocation path is /foo and not //foo
 getPackageInfo("${FOUND_FILE_1}" "FILE_INFO_")
 set(whitespaces_ "[\t\n\r ]*")

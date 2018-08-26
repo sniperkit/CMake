@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(CMAKE_VERSION MATCHES "\\.(20[0-9][0-9])[0-9][0-9][0-9][0-9](-|$)")
   set(version_year "${CMAKE_MATCH_1}")
   set(copyright_line_regex "^Copyright 2000-(20[0-9][0-9]) Kitware")

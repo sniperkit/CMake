@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(get_test_prerequirements found_var config_file)
   find_program(DPKG_EXECUTABLE dpkg)
 

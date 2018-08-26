@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project(LinkObjLHSStatic C)
 
 add_library(OtherLib STATIC a.c)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 find_program(PROG
   NAMES testB testA
   PATHS ${CMAKE_CURRENT_SOURCE_DIR}/A ${CMAKE_CURRENT_SOURCE_DIR}/B

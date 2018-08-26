@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set_property (SOURCE empty.c PROPERTY INCLUDE_DIRECTORIES "relative")
 

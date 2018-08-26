@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(ENV_PATH "$ENV{PATH}")
 set(ENV{PATH} ${CMAKE_CURRENT_SOURCE_DIR}/A)
 find_program(PROG

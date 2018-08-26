@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Set the ExternalProject GIT_TAG to desired_tag, and make sure the
 # resulting checked out version is resulting_sha and rebuild.
 # This check's the correct behavior of the ExternalProject UPDATE_COMMAND.

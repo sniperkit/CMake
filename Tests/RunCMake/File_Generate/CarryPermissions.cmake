@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 file(GENERATE
   OUTPUT "${CMAKE_CURRENT_BINARY_DIR}/output_script.sh"

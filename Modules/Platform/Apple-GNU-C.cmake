@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Apple-GNU)
 __apple_compiler_gnu(C)
 cmake_gnu_set_sysroot_flag(C)

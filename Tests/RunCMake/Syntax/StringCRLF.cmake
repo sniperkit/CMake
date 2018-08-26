@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if("a
 b" STREQUAL "a\nb")
   message("CRLF->LF worked")

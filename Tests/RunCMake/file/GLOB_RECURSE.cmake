@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/dir 1/empty_dir")
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/dir 1/non_empty_dir")
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test/dir 2/empty_dir")

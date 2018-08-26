@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CTest)
 add_subdirectory(SubDir)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/SubDirSource SubDirBinary)

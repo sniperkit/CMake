@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(b b)
 set(out x)
 string(CONCAT out)

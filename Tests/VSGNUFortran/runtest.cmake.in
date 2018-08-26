@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 get_filename_component(MINGW_PATH "@MINGW_GFORTRAN@" PATH)
 if(NOT EXISTS "${MINGW_PATH}")
   set(test_exe

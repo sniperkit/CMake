@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(bindir ${CMAKE_CURRENT_BINARY_DIR})
 
 #

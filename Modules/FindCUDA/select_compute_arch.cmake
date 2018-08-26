@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Synopsis:
 #   CUDA_SELECT_NVCC_ARCH_FLAGS(out_variable [target_CUDA_architectures])
 #   -- Selects GPU arch flags for nvcc based on target_CUDA_architectures

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(I RANGE 0 ${CMAKE_ARGC})
   if("${CMAKE_ARGV${I}}" MATCHES ".*\\.gcda")
     set(gcda_file "${CMAKE_ARGV${I}}")

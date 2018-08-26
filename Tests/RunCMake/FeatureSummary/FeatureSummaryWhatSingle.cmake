@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FeatureSummary)
 
 set(WITH_FOO 1)

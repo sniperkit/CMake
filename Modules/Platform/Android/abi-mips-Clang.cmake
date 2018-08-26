@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # <ndk>/build/core/toolchains/mipsel-linux-android-clang/setup.mk
 set(_ANDROID_ABI_CLANG_TARGET "mipsel-none-linux-android")
 

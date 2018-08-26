@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # create a shared C++ library
 set(CMAKE_CXX_CREATE_SHARED_LIBRARY
     "<CMAKE_CXX_COMPILER> --prelink_objects <OBJECTS>"

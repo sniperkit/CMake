@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(CSharp)
 
 add_executable(CSharpCustomCommand dummy.cs)

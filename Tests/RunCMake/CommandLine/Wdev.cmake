@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(AUTHOR_WARNING "Some author warning")
 
 # with -Wdev this will also cause an AUTHOR_WARNING message, checks that

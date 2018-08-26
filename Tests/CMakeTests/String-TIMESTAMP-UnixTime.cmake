@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 string(TIMESTAMP timestamp "[%Y-%m-%d %H:%M:%S] %s" UTC)
 
 string(TIMESTAMP unix_time "%s")

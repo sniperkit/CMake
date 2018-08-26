@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(CMAKE_SYSTEM MATCHES "MP-RAS-02*.")
   set(CMAKE_C_COMPILE_OPTIONS_PIC -K PIC)
   set(CMAKE_C_COMPILE_OPTIONS_PIE -K PIE)

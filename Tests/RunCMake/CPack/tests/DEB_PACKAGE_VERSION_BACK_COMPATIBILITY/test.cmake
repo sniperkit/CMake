@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 install(FILES CMakeLists.txt DESTINATION foo COMPONENT test)
 
 set(CPACK_DEBIAN_PACKAGE_VERSION "5.0.1-71-g884852e")

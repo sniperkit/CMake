@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(STRINGS ${RunCMake_TEST_BINARY_DIR}/XcodePreserveNonOptimizationFlags.xcodeproj/project.pbxproj actual
      REGEX "OTHER_CPLUSPLUSFLAGS = [^;]*;")
 foreach(expect "-DA" "-DB +-DC" "-DD")

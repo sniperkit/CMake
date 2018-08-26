@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
       program test
       @OpenMP_Fortran_INCLUDE_LINE@
   !$  integer :: n

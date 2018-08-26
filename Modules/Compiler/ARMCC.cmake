@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(_ARMCC_CMAKE_LOADED)
   return()
 endif()

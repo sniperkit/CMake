@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CTest)
 include(ExternalData)
 ExternalData_Add_Test(Data

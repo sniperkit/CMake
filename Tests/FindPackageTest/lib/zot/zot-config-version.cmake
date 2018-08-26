@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This version should never, ever be used.
 set(PACKAGE_VERSION_UNSUITABLE 1)
 set(PACKAGE_VERSION 3.1)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(iface INTERFACE)
 set_property(TARGET iface PROPERTY INTERFACE_COMPILE_FEATURES "not_a_feature")

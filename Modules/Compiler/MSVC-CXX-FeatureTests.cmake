@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Reference: https://docs.microsoft.com/en-us/cpp/visual-cpp-language-conformance
 # https://blogs.msdn.microsoft.com/vcblog/2015/06/19/c111417-features-in-vs-2015-rtm/
 # https://blogs.msdn.microsoft.com/vcblog/2013/12/02/c1114-core-language-features-in-vs-2013-and-the-nov-2013-ctp/

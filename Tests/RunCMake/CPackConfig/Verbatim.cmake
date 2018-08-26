@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CPACK_VERBATIM_VARIABLES YES)
 
 set(CPACK_BACKSLASH "\\\\")

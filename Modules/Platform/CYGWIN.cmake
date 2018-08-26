@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if("${CMAKE_MINIMUM_REQUIRED_VERSION}" VERSION_LESS "2.8.3.20101214")
   set(__USE_CMAKE_LEGACY_CYGWIN_WIN32 1)
 endif()

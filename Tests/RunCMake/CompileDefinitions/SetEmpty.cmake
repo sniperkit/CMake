@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set_property(DIRECTORY PROPERTY COMPILE_DEFINITIONS A "" B)
 get_property(result DIRECTORY PROPERTY COMPILE_DEFINITIONS)

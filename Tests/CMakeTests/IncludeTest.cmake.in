@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # this one must silently fail
 include(I_am_not_here OPTIONAL)
 

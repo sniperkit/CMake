@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(expect "path = \"")
 file(STRINGS ${RunCMake_TEST_BINARY_DIR}/XcodeObjectNeedsQuote.xcodeproj/project.pbxproj actual
      REGEX "path = [^;]*someFileWithoutSpecialChars[^;]*;" LIMIT_COUNT 1)

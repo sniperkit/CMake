@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(MAKE_DIRECTORY "${bin_dir}")
 include(ProcessorCount)
 ProcessorCount(nproc)

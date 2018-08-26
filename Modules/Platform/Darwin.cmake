@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(APPLE 1)
 
 # Darwin versions:

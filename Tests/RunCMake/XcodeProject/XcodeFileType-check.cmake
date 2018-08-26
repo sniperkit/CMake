@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(expect-default "explicitFileType = sourcecode")
 set(expect-explicit "explicitFileType = sourcecode.c.h")
 set(expect-lastKnown "lastKnownFileType = sourcecode.c.h")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(RunCMake)
 
 run_cmake(FindPkgConfig_NO_PKGCONFIG_PATH)

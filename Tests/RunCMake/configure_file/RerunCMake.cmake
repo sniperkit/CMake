@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message("Running CMake on RerunCMake") # write to stderr if cmake reruns
 configure_file(
   "${CMAKE_CURRENT_BINARY_DIR}/ConfigureFileInput.txt.in"

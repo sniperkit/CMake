@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_subdirectory(BadInvalidName1)
 add_subdirectory(BadInvalidName2)
 add_subdirectory(BadInvalidName3)

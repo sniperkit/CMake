@@ -1,2 +1,5 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(mylist alpha bravo charlie)
 list(TRANSFORM mylist TOUPPER AT 0 1x 2)

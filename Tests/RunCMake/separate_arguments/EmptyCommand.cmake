@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(nothing)
 separate_arguments(nothing)
 if(DEFINED nothing)

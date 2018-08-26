@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT EXISTS "${RunCMake_TEST_BINARY_DIR}/CMakeCache.txt")
   message(FATAL_ERROR "missing test prerequisite CMakeCache.txt")
 endif()

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # This "cmake -P" script may be configured to drive a dashboard on any machine.
 #
 set(CTEST_BINARY_DIRECTORY "@binary_dir@")

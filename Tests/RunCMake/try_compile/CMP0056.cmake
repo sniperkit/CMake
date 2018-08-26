@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 set(obj "${CMAKE_C_OUTPUT_EXTENSION}")
 if(BORLAND)

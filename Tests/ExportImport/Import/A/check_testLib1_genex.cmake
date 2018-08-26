@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 foreach(f
     "${testLib1}.genex"
     "${prefix}/doc/testLib1file1.txt"

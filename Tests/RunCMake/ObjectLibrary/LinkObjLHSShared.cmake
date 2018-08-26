@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project(LinkObjLHSShared C)
 
 add_library(OtherLib SHARED a.c)

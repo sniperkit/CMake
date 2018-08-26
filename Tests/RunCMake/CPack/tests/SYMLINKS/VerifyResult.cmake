@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(whitespaces "[\\t\\n\\r ]*")
 
 #######################

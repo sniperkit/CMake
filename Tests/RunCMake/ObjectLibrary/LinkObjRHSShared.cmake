@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 
 add_definitions(-DCOMPILE_FOR_SHARED_LIB)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 message(STATUS "Checking for curses support")
 
 # Try compiling a simple project using curses.

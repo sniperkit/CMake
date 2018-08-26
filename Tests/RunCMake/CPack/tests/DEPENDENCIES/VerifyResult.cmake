@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(GENERATOR_TYPE STREQUAL "DEB")
   function(checkDependencies_ FILE REGEX)
     set(whitespaces_ "[\t\n\r ]*")

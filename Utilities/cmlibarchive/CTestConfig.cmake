@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # TODO: This file should be moved into the build/cmake directory...
 
 # The libarchive CDash page appears at

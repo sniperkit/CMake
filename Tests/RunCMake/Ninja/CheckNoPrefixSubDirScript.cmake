@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Check that the prefix sub-directory is not repeated.
 
 if(EXISTS "${CUR_BIN_DIR}/${NINJA_OUTPUT_PATH_PREFIX}")

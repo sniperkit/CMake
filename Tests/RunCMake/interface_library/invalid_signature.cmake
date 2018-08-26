@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 add_library(iface1 INTERFACE empty.cpp)
 add_library(iface3 STATIC INTERFACE)

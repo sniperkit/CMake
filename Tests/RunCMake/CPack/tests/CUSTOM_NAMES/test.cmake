@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(GENERATOR_TYPE STREQUAL "DEB" OR GENERATOR_TYPE STREQUAL "RPM")
   if(GENERATOR_TYPE STREQUAL "DEB")
     set(generator_type_suffix_ "IAN") # not entirely compatible...

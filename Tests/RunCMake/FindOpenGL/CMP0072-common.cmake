@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CYGWIN 0)
 set(WIN32 0)
 set(APPLE 0)

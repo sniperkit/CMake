@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Compiler/PathScale)
 __compiler_pathscale(Fortran)
 

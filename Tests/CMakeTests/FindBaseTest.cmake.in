@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(MY_SOURCE_DIR "@CMAKE_CURRENT_SOURCE_DIR@")
 
 # The find_* commands do path normalization so we should do so too

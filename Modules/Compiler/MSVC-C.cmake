@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # MSVC has no specific options to set C language standards, but set them as
 # empty strings anyways so the feature test infrastructure can at least check
 # to see if they are defined.

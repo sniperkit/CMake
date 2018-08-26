@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(ALL_FILES_GLOB "*.rpm")
 
 function(getPackageContent FILE RESULT_VAR)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(log "${RunCMake_TEST_BINARY_DIR}/CMakeFiles/CMakeError.log")
 if(EXISTS "${log}")
   file(READ "${log}" error_log)

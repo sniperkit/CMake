@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 project(${RunCMake_TEST} LANGUAGES C)
 check_ipo_supported(RESULT result OUTPUT output)
 

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include_guard(DIRECTORY)
 
 set(prop_name DIR_SCRIPT_COUNT)

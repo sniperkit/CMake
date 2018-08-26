@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 cmake_minimum_required(VERSION 3.5)
 project(hello C)
 add_definitions(-DGREETING_STATIC)

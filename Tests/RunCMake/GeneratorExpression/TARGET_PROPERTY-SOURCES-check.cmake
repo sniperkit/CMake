@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(READ ${RunCMake_TEST_BINARY_DIR}/foo.txt foo_sources)
 
 set(foo_expected "empty.c;empty2.c;empty3.c")

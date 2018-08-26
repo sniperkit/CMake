@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #ifndef @MACRO_NAMESPACE@HEADER_INCLUDED
 #define @MACRO_NAMESPACE@HEADER_INCLUDED
 @HEADER_CONTENT@

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(${CMAKE_CURRENT_LIST_DIR}/check-common.cmake)
 
 string(REPLACE ${path_prefix} "" test_shell_path ${test_shell_path})

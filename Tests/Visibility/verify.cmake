@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${CMAKE_NM} -D ${TEST_LIBRARY_PATH}
   RESULT_VARIABLE RESULT
   OUTPUT_VARIABLE OUTPUT

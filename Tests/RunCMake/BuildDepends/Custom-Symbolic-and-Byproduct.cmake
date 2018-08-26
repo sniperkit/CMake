@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_custom_command(
   OUTPUT gen-byproduct gen-byproduct-stamp
   BYPRODUCTS byproduct

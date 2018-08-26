@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(error text)
   set(RunCMake_TEST_FAILED "${text}")
   return()

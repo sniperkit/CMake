@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 file(WRITE "${CMAKE_BINARY_DIR}/CPackConfig.cmake" "")
 add_custom_target(test)

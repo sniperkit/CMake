@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(WRITE "${CMAKE_CURRENT_BINARY_DIR}/abc.txt" "test content")
 file(WRITE "${CMAKE_CURRENT_BINARY_DIR}/user-script.cmake"
   "file(INSTALL DESTINATION \"\${CMAKE_INSTALL_PREFIX}/foo\"

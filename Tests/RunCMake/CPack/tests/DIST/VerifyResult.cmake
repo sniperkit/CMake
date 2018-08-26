@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 execute_process(COMMAND ${RPMBUILD_EXECUTABLE} -E %{?dist}
                 OUTPUT_VARIABLE DIST_TAG
                 ERROR_QUIET

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function (check_global_property prop)
   get_cmake_property(gcp_val "${prop}")
   get_property(gp_val

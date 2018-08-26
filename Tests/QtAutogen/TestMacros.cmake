@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Autogen build options
 set(Autogen_BUILD_OPTIONS "-DQT_TEST_VERSION=${QT_TEST_VERSION}")
 if(NOT _isMultiConfig)   # Set in Tests/CMakeLists.txt

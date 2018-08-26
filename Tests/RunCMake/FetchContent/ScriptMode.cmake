@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FetchContent)
 
 file(WRITE tmpFile.txt "Generated contents, not important")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(_cmake_oldestSupported "((__clang_major__ * 100) + __clang_minor__) >= 400")
 

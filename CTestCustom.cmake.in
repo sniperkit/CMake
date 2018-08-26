@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 list(APPEND CTEST_CUSTOM_ERROR_MATCH
   "ERROR:")
 

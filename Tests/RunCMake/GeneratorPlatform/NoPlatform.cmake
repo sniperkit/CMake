@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if("x${CMAKE_GENERATOR_PLATFORM}" STREQUAL "x")
   message(FATAL_ERROR "CMAKE_GENERATOR_PLATFORM is empty as expected.")
 else()

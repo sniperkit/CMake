@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(f)
   g(${ARGN})
 endfunction()

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # support for eCos http://ecos.sourceware.org
 
 # Guard against multiple inclusion, which e.g. leads to multiple calls to add_definition() #12987

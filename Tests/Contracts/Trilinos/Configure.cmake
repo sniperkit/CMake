@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ValidateBuild.cmake is configured into this location when the test is built:
 set(dir "${CMAKE_CURRENT_BINARY_DIR}/Contracts/${project}")
 

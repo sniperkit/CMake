@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(THIRD_PARTY_REGEX "<Subproject name=\"MyThirdPartyDependency\">.*<Label>MyThirdPartyDependency</Label>.*</Subproject>")
 set(SUBPROJECTS_REGEX "${THIRD_PARTY_REGEX}")
 

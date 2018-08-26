@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 enable_language(C)
 
 set(CMAKE_WARN_DEPRECATED SOME_VALUE)

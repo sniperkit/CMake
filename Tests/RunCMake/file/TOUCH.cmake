@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(file "${CMAKE_CURRENT_BINARY_DIR}/file-to-touch")
 
 file(REMOVE "${file}")

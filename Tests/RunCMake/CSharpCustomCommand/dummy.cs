@@ -1,0 +1,5 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+

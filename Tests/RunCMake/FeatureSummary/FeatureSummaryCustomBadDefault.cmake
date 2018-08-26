@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FeatureSummary)
 set_property(GLOBAL PROPERTY FeatureSummary_PKG_TYPES TYPE1 TYPE2 TYPE3)
 

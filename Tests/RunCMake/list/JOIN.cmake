@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 list(JOIN undefList % out)
 if(NOT out STREQUAL "")
   message(FATAL_ERROR "\"list(JOIN undefList % out)\" set out to \"${out}\"")

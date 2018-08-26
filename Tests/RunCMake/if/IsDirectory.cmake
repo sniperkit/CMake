@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(IS_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/")
   message(STATUS "CMAKE_CURRENT_SOURCE_DIR exists, tested with trailing slash")
 else()

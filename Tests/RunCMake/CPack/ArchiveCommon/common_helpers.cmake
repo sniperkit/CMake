@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(ALL_FILES_GLOB "*.${cpack_archive_extension_}")
 
 function(getPackageContent FILE RESULT_VAR)

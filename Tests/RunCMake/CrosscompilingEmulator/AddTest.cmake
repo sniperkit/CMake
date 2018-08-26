@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(CMAKE_CROSSCOMPILING 1)
 enable_testing()
 add_test(NAME DoesNotUseEmulator

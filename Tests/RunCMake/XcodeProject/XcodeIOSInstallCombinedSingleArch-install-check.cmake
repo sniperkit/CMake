@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(verify_architecture file)
   execute_process(
     COMMAND xcrun lipo -info ${RunCMake_TEST_BINARY_DIR}/_install/${file}

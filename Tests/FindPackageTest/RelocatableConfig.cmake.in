@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 @PACKAGE_INIT@
 
 set(RELOC_INCLUDE_DIR "@PACKAGE_INCLUDE_INSTALL_DIR@")

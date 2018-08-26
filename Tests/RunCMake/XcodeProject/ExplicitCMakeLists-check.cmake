@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(xcProjectFile "${RunCMake_TEST_BINARY_DIR}/ExplicitCMakeLists.xcodeproj/project.pbxproj")
 if(NOT EXISTS "${xcProjectFile}")
   set(RunCMake_TEST_FAILED "Project file ${xcProjectFile} does not exist.")

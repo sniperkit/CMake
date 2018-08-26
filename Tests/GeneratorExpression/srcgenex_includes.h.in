@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 #if !defined @TARGET_NAME@_H
 #define @TARGET_NAME@_H

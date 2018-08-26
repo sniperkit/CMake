@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(READ build.ninja build_ninja)
 if("${build_ninja}" MATCHES [====[
 # Unknown Build Time Dependencies.

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_custom_command(
   OUTPUT output.txt
   COMMAND ${CMAKE_COMMAND} -E echo CustomCommand > output.txt

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(whitespaces_ "[\t\n\r ]*")
 
 file(MAKE_DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/test_rpm")

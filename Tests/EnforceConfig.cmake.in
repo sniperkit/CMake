@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Choose a configuration with which to drive CTest tests.
 if(CTEST_CONFIGURATION_TYPE)
   set(CTestTest_CONFIG "${CTEST_CONFIGURATION_TYPE}")

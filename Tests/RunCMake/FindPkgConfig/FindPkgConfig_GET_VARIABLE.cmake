@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 find_package(PkgConfig REQUIRED)
 pkg_check_modules(GOBJECT_INTROSPECTION QUIET gobject-introspection-1.0)
 

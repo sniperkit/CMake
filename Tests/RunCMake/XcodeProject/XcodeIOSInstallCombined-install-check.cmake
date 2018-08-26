@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(verify_architectures file)
   execute_process(
     COMMAND xcrun otool -vf ${RunCMake_TEST_BINARY_DIR}/_install/${file}

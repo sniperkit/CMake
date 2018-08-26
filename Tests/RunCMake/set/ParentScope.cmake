@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(FOO )
 set(BAR "bar")
 set(BAZ "baz")

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 {
   "instrumentation": "node-jscoverage",
   "sloc": 29,

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set (CTEST_PROJECT_NAME "CTestTestCycle")
 set (CTEST_NIGHTLY_START_TIME "21:00:00 EDT")
 set (CTEST_DART_SERVER_VERSION "2")

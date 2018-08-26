@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_test(test1 ${CMAKE_COMMAND} -E echo test1)
 set_tests_properties(test1 PROPERTIES LABELS "foo")
 

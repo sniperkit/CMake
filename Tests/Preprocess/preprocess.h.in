@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 /* Define configured macros.  */
 #define STRING_VALUE "@STRING_VALUE@"
 #define EXPR @EXPR@

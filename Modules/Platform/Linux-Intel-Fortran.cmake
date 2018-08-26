@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(Platform/Linux-Intel)
 __linux_compiler_intel(Fortran)
 string(APPEND CMAKE_SHARED_LIBRARY_CREATE_Fortran_FLAGS " -nofor_main")

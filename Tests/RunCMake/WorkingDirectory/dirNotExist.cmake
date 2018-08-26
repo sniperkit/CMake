@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CTest)
 
 add_test(NAME dirNotExist

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 find_package(Qt4 REQUIRED)
 find_package(Qt5Core REQUIRED)

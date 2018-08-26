@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(READ "${RunCMake_TEST_BINARY_DIR}/GENEX_EVAL-generated.txt" content)
 
 set(expected "BEFORE_PROPERTY1_AFTER")

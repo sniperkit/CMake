@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #
 # This code validates that the install trees of the shared and static builds
 # of "mfc1" have the expected contents:

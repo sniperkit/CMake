@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 find_path(_inc_prefix bar.h PATH_SUFFIXES bar)
 set(Bar_INCLUDE_DIRS ${_inc_prefix})

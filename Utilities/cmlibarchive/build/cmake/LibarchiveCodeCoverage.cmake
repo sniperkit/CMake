@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #################################################################
 # Adds a build target called "coverage" for code coverage.
 #

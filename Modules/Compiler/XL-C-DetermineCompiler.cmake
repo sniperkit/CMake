@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(_compiler_id_pp_test "defined(__ibmxl__) || (defined(__IBMC__) && !defined(__COMPILER_VER__) && __IBMC__ >= 800)")
 

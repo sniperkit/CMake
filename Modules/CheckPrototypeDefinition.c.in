@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 @CHECK_PROTOTYPE_DEFINITION_HEADER@
 
 static void cmakeRequireSymbol(int dummy, ...) {

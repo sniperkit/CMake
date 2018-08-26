@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 add_executable(mytest test.cpp)
 
 file(GENERATE OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/runtest_info.cmake CONTENT [[

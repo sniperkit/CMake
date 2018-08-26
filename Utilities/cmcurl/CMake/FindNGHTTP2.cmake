@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(FindPackageHandleStandardArgs)
 
 find_path(NGHTTP2_INCLUDE_DIR "nghttp2/nghttp2.h")

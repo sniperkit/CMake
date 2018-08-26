@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 get_filename_component(CMakeTests_SRC_DIR ${CMAKE_CURRENT_LIST_FILE} PATH)
 
 function(check_cmake_test_single prefix test testfile)

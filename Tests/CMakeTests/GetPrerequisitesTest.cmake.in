@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Test of the functions in the CMake Modules file:
 #
 include(GetPrerequisites)

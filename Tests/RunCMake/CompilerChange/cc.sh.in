@@ -1,2 +1,5 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #!/bin/sh
 exec "@CMAKE_C_COMPILER@" "$@"

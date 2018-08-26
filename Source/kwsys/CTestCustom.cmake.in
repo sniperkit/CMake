@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # kwsys.testProcess-10 involves sending SIGINT to a child process, which then
 # exits abnormally via a call to _exit(). (On Windows, a call to ExitProcess).
 # Naturally, this results in plenty of memory being "leaked" by this child

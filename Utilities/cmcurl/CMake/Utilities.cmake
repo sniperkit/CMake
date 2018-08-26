@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # File containing various utilities
 
 # Converts a CMake list to a string containing elements separated by spaces

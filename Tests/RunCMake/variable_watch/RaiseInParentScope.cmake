@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 function(watch variable access value)
   message("${variable} ${access} ${value}")

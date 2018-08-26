@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(_cache_file "${RunCMake_TEST_BINARY_DIR}/tmp/FOO-cache-Debug.cmake")
 
 if(NOT EXISTS "${_cache_file}")

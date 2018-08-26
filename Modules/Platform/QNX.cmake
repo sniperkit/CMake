@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(QNXNTO 1)
 
 include(Platform/GNU)

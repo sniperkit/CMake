@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #1st TEST RESULT_VARIABLE ONLY
 execute_process(COMMAND ${EXIT_CODE_EXE} "zero_exit"
                 RESULT_VARIABLE r0

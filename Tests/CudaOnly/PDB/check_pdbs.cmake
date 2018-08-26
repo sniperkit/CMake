@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(NOT "${config}" MATCHES "[Dd][Ee][Bb]")
   return()
 endif()

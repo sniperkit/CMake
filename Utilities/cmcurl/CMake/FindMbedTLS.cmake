@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 find_path(MBEDTLS_INCLUDE_DIRS mbedtls/ssl.h)
 
 find_library(MBEDTLS_LIBRARY mbedtls)

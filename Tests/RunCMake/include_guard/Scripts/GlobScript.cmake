@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include_guard(GLOBAL)
 
 set(prop_name GLOB_SCRIPT_COUNT)

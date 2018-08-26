@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(GENERATOR_TYPE STREQUAL "DEB")
   set(CPACK_DEBIAN_FILE_NAME "DEB-DEFAULT")
   set(CPACK_DEBIAN_ARCHIVE_TYPE "gnutar")

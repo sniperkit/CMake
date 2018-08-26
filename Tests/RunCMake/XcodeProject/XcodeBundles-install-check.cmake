@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 file(GLOB DIRECTORIES LIST_DIRECTORIES true
   "${RunCMake_TEST_BINARY_DIR}/_install/FooExtension/*.*")
 

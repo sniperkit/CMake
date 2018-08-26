@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CMakeFindDependencyMacro)
 
 find_dependency(Pack1 PATHS ${CMAKE_CURRENT_LIST_DIR}/..)
